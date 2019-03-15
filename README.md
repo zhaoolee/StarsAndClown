@@ -1,4 +1,4 @@
-# GithubStarsAndClowns
+# StarsAndClowns
 
 
 Github星爆弃疗榜
