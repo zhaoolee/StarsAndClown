@@ -8,10 +8,11 @@
 
 | 类别 | 说明 | Github地址 |
 | --- | --- | --- |
-| 开源工具 | ✨  学习强国刷时长  | [https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) |
-| 前端技术 | ✨ [《纯粹的Css动画库》](https://www.jianshu.com/p/85725d376d1d)  |  [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)  |
-| 前端技术 | ✨ [《Js轮子库Markdown转Html》](https://www.jianshu.com/p/a57114bd9380)  |  [https://github.com/showdownjs/showdown](https://github.com/showdownjs/showdown) |
-| Git新手入门 | 🤡  [《女装大佬库》](https://www.jianshu.com/p/ea4b6c71ac13)|  [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)  |
+| 开源工具 | ✨学习强国刷时长  | [https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) |
+| 科学上网 | ✨[用Brook部署一个简单稳定傻瓜的科学上网工具](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [https://github.com/txthinking/brook](https://github.com/txthinking/brook) |
+| 前端技术 | ✨[《纯粹的Css动画库》](https://www.jianshu.com/p/85725d376d1d)  |  [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)  |
+| 前端技术 | ✨[《Js轮子库Markdown转Html》](https://www.jianshu.com/p/a57114bd9380)  |  [https://github.com/showdownjs/showdown](https://github.com/showdownjs/showdown) |
+| Git新手入门 | 🤡[《女装大佬库》](https://www.jianshu.com/p/ea4b6c71ac13)|  [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)  |
 
 
 
