@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus", "github", "baidu"],
+    "plugins": ["disqus", "github", "baidu", "github-buttons"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "zhaoolee"
@@ -9,6 +9,19 @@
         },
         "baidu": {
             "token": "cffaa20fbe78d2ecb224270689e2da51"
-        }
+        },
+        "github-buttons": {
+      "buttons": [{
+        "user": "zhaoolee",
+        "repo": "StarsAndClown",
+        "type": "star",
+        "size": "large"
+      }, {
+        "user": "zhaoolee",
+        "type": "follow",
+        "width": "230",
+        "count": false
+      }]
+    }
     }  
 }
