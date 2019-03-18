@@ -4,15 +4,14 @@
     "sharing": {
             "facebook": true,
             "twitter": true,
-            "google": false,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
+            "google": true,
+            "weibo": true,
+            "instapaper": true,
+            "vk": true,
             "all": [
                 "facebook", "google", "twitter",
                 "weibo", "instapaper"
-        ]
-        },
+        ]},
         "disqus": {
             "shortName": "zhaoolee"
         },
