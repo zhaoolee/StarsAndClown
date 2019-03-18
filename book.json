@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus", "github", "baidu", "github-buttons", "-sharing", "-search"],
+    "plugins": ["disqus", "github", "baidu", "github-buttons", "-sharing", "-search", "book-summary-scroll-position-saver"],
     "pluginsConfig": {
     "-sharing": {
             "facebook": true,
