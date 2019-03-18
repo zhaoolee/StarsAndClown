@@ -1,8 +1,11 @@
-
 {
-"pluginsConfig": {
+    "plugins": ["disqus", "github"],
+    "pluginsConfig": {
         "disqus": {
-        "shortName": "zhaoolee"            
+            "shortName": "zhaoolee"
         }
-}
+        "github": {
+            "url": "https://github.com/zhaoolee/starsandclown"
+        }
+    }  
 }
