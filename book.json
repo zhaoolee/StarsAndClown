@@ -15,7 +15,8 @@
         "user": "zhaoolee",
         "repo": "StarsAndClown",
         "type": "star",
-        "size": "large"
+        "size": "large",
+        "count": true
       }, {
         "user": "zhaoolee",
         "type": "follow",
