@@ -1,6 +1,8 @@
 
+{
 "pluginsConfig": {
         "disqus": {
         "shortName": "zhaoolee"            
         }
+}
 }
