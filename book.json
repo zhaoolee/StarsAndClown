@@ -1,6 +1,18 @@
 {
-    "plugins": ["disqus", "github", "baidu", "github-buttons"],
+    "plugins": ["disqus", "github", "baidu", "github-buttons", "-sharing"],
     "pluginsConfig": {
+    "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+        ]
+        },
         "disqus": {
             "shortName": "zhaoolee"
         },
