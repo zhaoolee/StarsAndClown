@@ -1,11 +1,14 @@
 {
-    "plugins": ["disqus", "github"],
+    "plugins": ["disqus", "github", "baidu"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "zhaoolee"
         },
         "github": {
             "url": "https://github.com/zhaoolee/starsandclown"
+        },
+        "baidu": {
+            "token": "cffaa20fbe78d2ecb224270689e2da51"
         }
     }  
 }
