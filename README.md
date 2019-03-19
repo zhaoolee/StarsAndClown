@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | 开源工具 | ✨《学习强国刷时长》  | [点我直达](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) |
 | 开源工具 | ✨ [《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://www.jianshu.com/p/14d512257264) | [点我直达](https://github.com/soimort/you-get) |
+| 开源工具 | ✨ [《用Aria2解除百度网盘限速》](https://www.jianshu.com/p/8eeb1da6171e) | [点我直达](https://www.jianshu.com/p/8eeb1da6171e) |
 | Linux | ✨ [《"国骂"命令行神器 thefuke!》](https://www.jianshu.com/p/1415af160a22) | [点我直达](https://github.com/nvbn/thefuck) |
 | 科学上网 | ✨[《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [点我直达](https://github.com/txthinking/brook) |
 | 前端技术 | ✨[《纯粹的Css动画库》](https://www.jianshu.com/p/85725d376d1d)  |  [点我直达](https://github.com/daneden/animate.css)  |
