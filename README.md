@@ -9,6 +9,7 @@
 | 类别 | 说明 | Github地址 |
 | --- | --- | --- |
 | 开源工具 | ✨《学习强国刷时长》  | [点我直达](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) |
+| 开源工具 | ✨[《开源工具将Markdown格式转换为微信公众号格式》](https://www.jianshu.com/p/ebeeea770b81) | [点我直达](https://github.com/lyricat/wechat-format) |
 | 开源工具 | ✨[《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://www.jianshu.com/p/14d512257264) | [点我直达](https://github.com/soimort/you-get) |
 | 开源工具 | ✨[《用Aria2解除百度网盘限速》](https://www.jianshu.com/p/8eeb1da6171e) | [点我直达](https://www.jianshu.com/p/8eeb1da6171e) |
 | Python神库 | ✨[《3行代码发邮件(含发送图片)》](https://www.jianshu.com/p/1be807735914) | [点我直达](https://github.com/kootenpv/yagmail) |
