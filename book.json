@@ -1,4 +1,7 @@
 {
+    "style":{
+        "website": "./css/index.css"
+    },
     "plugins": ["disqus", "github", "baidu", "github-buttons", "-sharing"],
     "pluginsConfig": {
     "-sharing": {
