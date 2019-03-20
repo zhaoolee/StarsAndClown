@@ -11,6 +11,8 @@
 
 - [开源工具] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) 
 
+- [开源工具] [《谷歌在线压缩图片》](https://squoosh.app/)| [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/) 
+
 - [开源工具] [《开源工具将Markdown格式转换为微信公众号格式》](https://www.jianshu.com/p/ebeeea770b81) |  [仓库传送⛩](https://github.com/lyricat/wechat-format) 
 
 - [开源工具]  [《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://www.jianshu.com/p/14d512257264) | [仓库传送⛩](https://github.com/soimort/you-get) 
