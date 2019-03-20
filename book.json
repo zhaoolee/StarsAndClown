@@ -1,9 +1,8 @@
 
 {
-    
     "language" : "zh-hans",
     "styles":{
-        "website": "./css/index.css"
+        "website": "styles/website.css",
     },
     "plugins": ["disqus", 
                 "github", 
