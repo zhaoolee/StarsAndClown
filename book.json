@@ -9,7 +9,7 @@
         "properties": {
             "website": {
                 "title": "Stylesheet for website output",
-                "default": "styles/website.css"
+                "default": "zh-hans/styles/website.css"
             }
         }
     },
