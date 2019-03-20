@@ -2,7 +2,7 @@
 
 ✨🤡 Github星聚弃疗榜,为Github优秀项目写一封推荐信，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
 * 104 \[新手上路\] 《学习强国刷时长》\| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
 
