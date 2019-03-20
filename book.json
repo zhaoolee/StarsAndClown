@@ -10,7 +10,6 @@
     "plugins": ["disqus", 
                 "github", 
                 "3-ba", 
-                "anchor-navigation-ex",
                 "github-buttons", 
                 "-sharing", "sharing-plus", 
                 "-lunr", "-search", "search-plus",
