@@ -2,7 +2,7 @@
 {
     "language" : "zh-hans",
     "styles":{
-        "website": "styles/website.css",
+        "website": "styles/website.css"
     },
     "plugins": ["disqus", 
                 "github", 
