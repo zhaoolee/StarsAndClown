@@ -5,7 +5,7 @@
     "styles":{
         "website": "./css/index.css"
     },
-    "plugins": ["disqus", "github", "baidu", "anchor-navigation-ex","github-buttons", "-sharing", "sharing-plus", "-search"],
+    "plugins": ["disqus", "github", "baidu", "anchor-navigation-ex","github-buttons", "-sharing", "sharing-plus", "-lunr", "-search", "search-plus"],
     "pluginsConfig": {
     "sharing": {
             "douban": false,
