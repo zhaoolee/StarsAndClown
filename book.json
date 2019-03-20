@@ -2,19 +2,30 @@
     "style":{
         "website": "./css/index.css"
     },
-    "plugins": ["disqus", "github", "baidu", "github-buttons", "-sharing"],
+    "plugins": ["disqus", "github", "baidu", "github-buttons", "sharing"],
     "pluginsConfig": {
-    "-sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": true,
-            "instapaper": true,
-            "vk": true,
+    "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
             "all": [
-                "facebook", "google", "twitter",
-                "weibo", "instapaper"
-        ]},
+                "weibo","qq","qzone","google","douban"
+            ]
+        },
         "disqus": {
             "shortName": "zhaoolee"
         },
