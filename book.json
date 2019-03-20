@@ -1,5 +1,8 @@
 
 {
+    "title" : "StarsAndClown",
+    "author": "zhaoolee",
+    "description" : "为Github优秀项目写一份推荐清单",
     "language" : "zh-hans",
     "styles":{
         "website": "styles/website.css"
