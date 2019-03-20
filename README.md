@@ -1,10 +1,13 @@
 # StarsAndClown
 
-✨🤡 Github星聚弃疗榜,为Github优秀项目写一封推荐清单 Github Starts and Clown, Write a list of recommendations for Github's outstanding projects 
+✨🤡 Github星聚弃疗榜,为Github优秀项目写一封推荐信，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
+
+  
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 - [优质资源]  [《Chrome插件英雄榜》](https://www.jianshu.com/p/b216415c753c) |  [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
+
 - [开源工具] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) 
 
 - [开源工具] [《开源工具将Markdown格式转换为微信公众号格式》](https://www.jianshu.com/p/ebeeea770b81) |  [仓库传送⛩](https://github.com/lyricat/wechat-format) 
