@@ -5,6 +5,7 @@
   
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- [优质资源]  《思源黑体下载》|  [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
 
 - [优质资源]  [《Chrome插件英雄榜》](https://www.jianshu.com/p/b216415c753c) |  [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
 
