@@ -5,11 +5,13 @@
     "description" : "为Github优秀项目写一份推荐清单",
     "language" : "zh-hans",
     "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
+        "type": "object",
+        "properties": {
+            "website": {
+                "title": "Stylesheet for website output",
+                "default": "styles/website.css"
+            }
+        }
     },
     "plugins": ["disqus", 
                 "github", 
