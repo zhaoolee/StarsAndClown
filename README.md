@@ -5,11 +5,15 @@
   
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- [优质资源1001]  《思源黑体下载》|  [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
+- [新手上路1004] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) 
 
-- [优质资源1000]  [《Chrome插件英雄榜》](https://www.jianshu.com/p/b216415c753c) |  [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
+- [新手上路1003]  [《用HEXO在Github建立个人博客》](用HEXO在Github建立个人博客) |  [仓库传送⛩](https://github.com/hexojs/hexo)
 
-- [开源工具2004] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) 
+- [新手上路1002]  《思源黑体下载》|  [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
+
+- [新手上路1001]  [《Chrome插件英雄榜》](https://www.jianshu.com/p/b216415c753c) |  [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
+
+
 
 - [开源工具2003] [《谷歌在线压缩图片》](https://squoosh.app/)| [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/) 
 
