@@ -5,13 +5,7 @@
     "description" : "为Github优秀项目写一份推荐清单",
     "language" : "zh-hans",
     "styles": {
-        "type": "object",
-        "properties": {
-            "website": {
-                "title": "Stylesheet for website output",
-                "default": "zh-hans/styles/website.css"
-            }
-        }
+        "website": "zh-hans/styles/website.css"
     },
     "plugins": ["disqus", 
                 "github", 
