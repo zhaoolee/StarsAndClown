@@ -1,6 +1,9 @@
+
 {
+    
+    "language" : "zh-hans",
     "style":{
-        "website": "./css/index.css"
+        "website": "css/index.css"
     },
     "plugins": ["disqus", "github", "baidu", "anchor-navigation-ex","github-buttons", "-sharing", "sharing-plus"],
     "pluginsConfig": {
