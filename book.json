@@ -5,7 +5,15 @@
     "styles":{
         "website": "./css/index.css"
     },
-    "plugins": ["disqus", "github", "3-ba", "anchor-navigation-ex","github-buttons", "-sharing", "sharing-plus", "-lunr", "-search", "search-plus"],
+    "plugins": ["disqus", 
+                "github", 
+                "3-ba", 
+                "anchor-navigation-ex",
+                "github-buttons", 
+                "-sharing", "sharing-plus", 
+                "-lunr", "-search", "search-plus",
+                "splitter",
+                "tbfed-pagefooter"],
     "pluginsConfig": {
     "sharing": {
             "douban": false,
@@ -39,18 +47,23 @@
             "token": "cffaa20fbe78d2ecb224270689e2da51"
         },
         "github-buttons": {
-      "buttons": [{
-        "user": "zhaoolee",
-        "repo": "StarsAndClown",
-        "type": "star",
-        "size": "large",
-        "count": true
-      }, {
-        "user": "zhaoolee",
-        "type": "follow",
-        "width": "230",
-        "count": true
-      }]
+          "buttons": [{
+            "user": "zhaoolee",
+            "repo": "StarsAndClown",
+            "type": "star",
+            "size": "large",
+            "count": true
+          }, {
+            "user": "zhaoolee",
+            "type": "follow",
+            "width": "230",
+            "count": true
+          }]
+        },
+        "tbfed-pagefooter": {
+        "copyright":"Copyright zhaoolee@gmail.com",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
     }  
 }
