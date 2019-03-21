@@ -10,6 +10,8 @@
 
 * 101 [新手上路]  《思源黑体下载》|  [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
 
+- 204 [弃疗榜] [《无bug仓库》] | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
+
 - 203 [弃疗榜] [《灭霸响指脚本》] [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
 
 * 202 [弃疗榜] [《杨超越github后援会》] | [仓库传送⛩](https://github.com/ccyyycy)
