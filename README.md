@@ -4,11 +4,13 @@
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
-* 104 [新手上路] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+* 103 [新手上路] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
 
-* 103 [新手上路]  [《用HEXO在Github建立个人博客》](用HEXO在Github建立个人博客) \|  [仓库传送⛩](https://github.com/hexojs/hexo)
+* 102 [新手上路]  [《用HEXO在Github建立个人博客》](用HEXO在Github建立个人博客) \|  [仓库传送⛩](https://github.com/hexojs/hexo)
 
-* 102 [新手上路]  《思源黑体下载》|  [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
+* 101 [新手上路]  《思源黑体下载》|  [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
+
+- 203 [弃疗榜] [《灭霸响指脚本》] [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
 
 * 202 [弃疗榜] [《杨超越github后援会》] | [仓库传送⛩](https://github.com/ccyyycy)
 
