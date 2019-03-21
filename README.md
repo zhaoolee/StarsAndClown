@@ -36,7 +36,6 @@ There are both “Quality Resources” projects with “Stars Gathering” and �
 
 - 501 [开源书籍] 《深度学习500问》 |  [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions)
 
-
 * 602 [Linux老司机] [《"国骂"命令行神器 thefuke!》](https://www.jianshu.com/p/1415af160a22) | [仓库传送⛩](https://github.com/nvbn/thefuck)
 
 * 601 [Linux老司机]  [《快速配置vim》](https://www.jianshu.com/p/33eea78b7bad) \| [仓库传送⛩](https://github.com/ma6174/vim-deprecated)
