@@ -1,6 +1,6 @@
-# StarsAndClown
-
-✨🤡 Github星聚弃疗榜,为Github优秀项目写一封推荐信，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
+# Github星聚弃疗榜=“群星汇聚✨”＋“放弃治疗🤡”
+这里既有“群星汇聚”的“优质资源”仓库,也有“放弃治疗”的“新奇创意”项目， 为Github优秀项目写一封推荐信，让Github优秀项目造福人类~ 
+There are both “Quality Resources” projects with “Stars Gathering” and “New Ideas” projects with “Abandonment of Treatment”, writing a recommendation letter for Github's outstanding projects, and Github's outstanding projects for the benefit of mankind~
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
