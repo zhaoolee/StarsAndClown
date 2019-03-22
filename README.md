@@ -2,6 +2,7 @@
 为Github优秀项目写一封推荐信，让Github优秀项目造福人类~
 There are both “Quality Resources” projects with “Stars Gathering” and “New Ideas” projects with “Abandonment of Treatment”, writing a recommendation letter for Github's outstanding projects, and Github's outstanding projects for the benefit of mankind~ 
  **项目地址**: https://github.com/zhaoolee/StarsAndClown
+**在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
 * 103 [新手上路] 《学习强国刷时长》| [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
