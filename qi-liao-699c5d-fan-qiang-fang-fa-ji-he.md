@@ -9,4 +9,4 @@
 https://shadowsocks.com/
 
 
-#### 本仓库Github链接: [仓库传送⛩](https://github.com/bannedbook/fanqiang)
+#### 本仓库Github链接: [https://github.com/bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)

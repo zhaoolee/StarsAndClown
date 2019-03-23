@@ -8,4 +8,4 @@ Windows懒人链接:[https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/ra
 
 macOS懒人链接: [https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD-darwin.zip](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD-darwin.zip)
 
-#### 本仓库Github链接: [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+#### 本仓库Github链接: [https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
