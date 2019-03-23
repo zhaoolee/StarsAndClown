@@ -33,3 +33,6 @@ yag.send('zhaoolee@gmail.com', '主题:学习使我快乐', contents)
 > ![设置授权码](https://upload-images.jianshu.io/upload_images/3203841-3d3adc6a4e6e83ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > ![弹框提示](https://upload-images.jianshu.io/upload_images/3203841-b071ef08aa993dee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
+
+#### 本仓库Github链接: [仓库传送⛩](https://github.com/kootenpv/yagmail)

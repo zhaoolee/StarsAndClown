@@ -293,3 +293,10 @@
 - 记得接触简书, 是因为简书的markdown编辑器很好用
 - 实现一个简单的markdown编辑器并不是一件难事, 把体验做好确是非常不容易的
 - 希望简书能把markdown编辑器的体验, 越做越好
+
+
+---
+
+#### 本仓库Github链接: [https://github.com/showdownjs/showdown](https://github.com/showdownjs/showdown)
+
+---

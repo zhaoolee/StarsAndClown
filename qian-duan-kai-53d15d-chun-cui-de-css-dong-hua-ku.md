@@ -96,4 +96,9 @@ animate整个项目只有一个css文件, 使用方法也非常简单, 只要给
 > 为网站添加css动画, 是为网页增加趣味性最简单的方法~
 
 
+---
+
+#### 本仓库Github链接: [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
+
+---
 
