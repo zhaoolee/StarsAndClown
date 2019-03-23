@@ -117,3 +117,12 @@ pm2 delete start_brook
 
 ## 小结:
 Brook是一个蛮好用的工具, 不需要ss复杂的部署过程, 开箱即用, 配合pm2可以提供非常稳定的服务, 如果自己想搭建科学上网服务, 可以试试Brook!  
+
+
+
+---
+
+#### 本仓库Github链接: [https://github.com/txthinking/brook](https://github.com/txthinking/brook)
+
+---
+

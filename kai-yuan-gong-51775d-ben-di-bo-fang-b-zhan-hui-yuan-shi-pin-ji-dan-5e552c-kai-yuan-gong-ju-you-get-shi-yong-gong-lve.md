@@ -92,3 +92,12 @@ you-get -c C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.def
 小技巧：其实Windows对you-get的支持并不太好，如果视频在windows下载失败，可以换用Linux或Mac试一下，相信you-get不会让你失望~
 
 写这篇文章也是不容易，路由器断网一次，简书服务崩溃一次，还好没丢失太多的文字和图片的记录，安慰自己“好文多磨”吧！ 如果感觉学到了东西，记得点个赞哦 ~ 
+
+
+---
+
+#### 本仓库Github链接: [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
+
+---
+
+

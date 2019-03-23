@@ -201,3 +201,11 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 文中所使用的软件包,我已经整理好了, 可以关注公众号`jikeweikan`, 回复`下载神器`领取
 > ![](https://upload-images.jianshu.io/upload_images/3203841-03f07c93a06b23ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+---
+
+#### 本仓库Github链接: [https://github.com/aria2/aria2](https://github.com/aria2/aria2)
+
+---
