@@ -19,7 +19,11 @@
 - 老实讲, 女装并不适合所有男生, Github“女装大佬库”只是负责收录, 并没有对颜值进行过滤, 所以, 在线看“女装大佬库”需谨慎， 
 - 如果你需要一些开源项目的经历， 可以试下女装大佬库 [https://github.com/komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) 
 - 如果你对女装没有任何爱好，但想尝试一下git, 博主也有一个 400左右的开源项目[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)， 同样不需要代码，你只需推荐一些相关内容的文章即可～
+---
 
+#### 本仓库Github链接: [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
+
+---
 
 
 
