@@ -20,4 +20,5 @@
 * [\[Python派\] 将Python程序\(.py\)转换为Windows可执行文件\(.exe\)](python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.md)
 * [\[设计资源\] Adobe思源黑体下载](she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.md)
 * [\[开源阅读\] 深度学习500问](kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.md)
+* [\[开源阅读\] 腾讯IVWEB技术周刊](kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.md)
 
