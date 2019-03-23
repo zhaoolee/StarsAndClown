@@ -35,4 +35,4 @@ yag.send('zhaoolee@gmail.com', '主题:学习使我快乐', contents)
 
 
 
-#### 本仓库Github链接: [仓库传送⛩](https://github.com/kootenpv/yagmail)
+#### 本仓库Github链接: [https://github.com/kootenpv/yagmail](https://github.com/kootenpv/yagmail)

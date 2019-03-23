@@ -48,4 +48,4 @@
 > ![成功运行效果](http://upload-images.jianshu.io/upload_images/3203841-c64904fc3f48ae8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-#### 本仓库Github链接: [仓库传送⛩](https://github.com/pyinstaller/pyinstaller)
+#### 本仓库Github链接: [https://github.com/pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)

@@ -7,4 +7,4 @@
 
 - 比删除计算机全部文件还要刺激的事是什么? 随机删除计算机内一半的文件
 
-#### 本仓库Github链接: [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
+#### 本仓库Github链接: [https://github.com/hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh)
