@@ -15,4 +15,5 @@
 * [\[弃疗榜\] 无bug仓库](qi-liao-699c5d-wu-bug-cang-ku.md)
 * [\[弃疗榜\]  灭霸响指脚本](qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.md)
 * [\[弃疗榜\] 杨超越github后援会](qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.md)
+* [\[弃疗榜\] 翻墙方法集合](qi-liao-699c5d-fan-qiang-fang-fa-ji-he.md)
 
