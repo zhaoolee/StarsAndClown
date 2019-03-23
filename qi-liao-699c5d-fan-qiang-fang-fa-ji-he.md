@@ -1,4 +1,4 @@
-#### 107 [弃疗榜] [《翻墙方法集合》](https://github.com/bannedbook/fanqiang/wiki) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-67e30df84f80079a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > - 与GW斗智斗勇的一个库
 
