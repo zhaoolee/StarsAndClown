@@ -16,5 +16,5 @@
 * [\[弃疗榜\]  灭霸响指脚本](qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.md)
 * [\[弃疗榜\] 杨超越github后援会](qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.md)
 * [\[弃疗榜\] 翻墙方法集合](qi-liao-699c5d-fan-qiang-fang-fa-ji-he.md)
-* \[弃疗榜\] 学习强国刷时长
+* [\[弃疗榜\] 学习强国刷时长](qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.md)
 

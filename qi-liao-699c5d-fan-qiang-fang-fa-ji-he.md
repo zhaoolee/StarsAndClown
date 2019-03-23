@@ -7,3 +7,6 @@
 如果追求1080都不会卡的速度,建议花点大洋, 博主比较推荐的的一家vpn提供商
 
 https://shadowsocks.com/
+
+
+#### 本仓库Github链接: [仓库传送⛩](https://github.com/bannedbook/fanqiang)
