@@ -10,4 +10,5 @@
 * [\[科学上网\] 用Brook部署一个简单稳定傻瓜的科学上网工具](ke-xue-shang-7f515d-yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.md)
 * [\[前端开发\] 纯粹的Css动画库](qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.md)
 * [\[前端开发\] Markdown转Html](qian-duan-kai-53d15d-markdown-zhuan-html.md)
+* [\[Python派\] 3行代码发邮件\(含发送图片\)](pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.md)
 
