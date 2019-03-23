@@ -14,4 +14,5 @@
 * [\[Python派\] 将Python程序\(.py\)转换为Windows可执行文件\(.exe\)](python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.md)
 * [\[弃疗榜\] 无bug仓库](qi-liao-699c5d-wu-bug-cang-ku.md)
 * [\[弃疗榜\]  灭霸响指脚本](qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.md)
+* [\[弃疗榜\] 杨超越github后援会](qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.md)
 
