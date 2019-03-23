@@ -7,4 +7,6 @@
 * [\[开源工具\] 开源工具将Markdown格式转换为微信公众号格式](kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.md)
 * [\[开源工具\] 本地播放B站会员视频及弹幕, 开源工具you-get使用攻略](kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.md)
 * [\[开源工具\] 用Aria2解除百度网盘限速](kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.md)
+* [\[科学上网\] 用Brook部署一个简单稳定傻瓜的科学上网工具](ke-xue-shang-7f515d-yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.md)
+* [\[前端开发\] 纯粹的Css动画库](qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.md)
 
