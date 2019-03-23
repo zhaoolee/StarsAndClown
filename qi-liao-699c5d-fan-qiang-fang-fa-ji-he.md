@@ -8,5 +8,8 @@
 
 https://shadowsocks.com/
 
+---
 
 #### 本仓库Github链接: [https://github.com/bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+
+---
