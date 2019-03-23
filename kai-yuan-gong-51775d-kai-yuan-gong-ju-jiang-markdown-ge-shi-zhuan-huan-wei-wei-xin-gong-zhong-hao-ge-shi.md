@@ -20,8 +20,7 @@
 以前写过一篇MarkEditor的文章，[markdown一键转换到微信公众号编辑器格式(送MarkEditor激活码)](https://www.jianshu.com/p/930f8f8c9f07)，但MarkEditor毕竟是付费软件， 而且新版本升级需要另外付费，不能保证长期使用， 有了上面的小工具，就可以**肆无忌惮**的用Markdown写微信公众号了
 
 
--
---
+---
 
 #### 本仓库Github链接: [https://github.com/lyricat/wechat-format](https://github.com/lyricat/wechat-format)
 
