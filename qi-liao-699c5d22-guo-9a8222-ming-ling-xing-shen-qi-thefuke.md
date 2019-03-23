@@ -17,3 +17,10 @@ pip3 install thefuck
 
 ## 安装过程中可能遇到的问题
 > 如果`pip3 install thefuck`安装后, 命令行提示需要手动配置工具, 只需重新打开终端, 输入`fuck`, `fuck`, `fuck`, 然后再次重新打开终端即可配置完成!
+
+
+---
+
+#### 本仓库Github链接: [https://github.com/nvbn/thefuck](https://github.com/nvbn/thefuck)
+
+---
