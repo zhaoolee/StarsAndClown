@@ -178,3 +178,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 #### 602 [Python神库] [《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-d4817c37c755670c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  发邮件这种事情, 三行代码完全可以搞定~
+
+
+---
+
+## 写在最后(我需要你的支持)
+- 本文属于**Github星聚弃疗榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)
+
+- **Github星聚弃疗榜**, 为Github优秀创意项目写一封推荐信，让Github优秀项目造福人类~, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
+
+- StarsAndClown, Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~, If you like this project, I hope you can add a star 🌟 to this project.
+
+
+
