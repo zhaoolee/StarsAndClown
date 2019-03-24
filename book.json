@@ -7,7 +7,7 @@
     "styles": {
         "website": "zh-hans/styles/website.css"
     },
-    "plugins": ["disqus", 
+    "plugins": [
                 "github", 
                 "3-ba", 
                 "github-buttons", 
