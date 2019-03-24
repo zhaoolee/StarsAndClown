@@ -21,4 +21,5 @@
 * [\[设计资源\] Adobe思源黑体下载](she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.md)
 * [\[开源阅读\] 深度学习500问](kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.md)
 * [\[开源阅读\] 腾讯IVWEB技术周刊](kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.md)
+* [\[开源阅读\] 阮一峰技术分享周刊,每周五更新](kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.md)
 
