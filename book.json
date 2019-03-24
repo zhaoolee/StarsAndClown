@@ -1,22 +1,24 @@
-
 {
     "title" : "StarsAndClown",
     "author": "zhaoolee",
-    "description" : "为Github优秀项目写一份推荐清单",
+    "description" : "为Github优秀创意项目写一封推荐信，让Github优秀项目造福人类~ Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~",
     "language" : "zh-hans",
     "styles": {
         "website": "zh-hans/styles/website.css"
     },
-    "plugins": ["disqus", 
-                "github", 
-                "3-ba", 
-                "github-buttons", 
-                "-sharing", "sharing-plus", 
+    "plugins": ["disqus",
+                "github",
+                "3-ba",
+                "ga",
+                "github-buttons",
+                "-sharing", "sharing-plus",
                 "-lunr", "-search", "search-plus",
                 "splitter",
-                "tbfed-pagefooter"],
+                "tbfed-pagefooter",
+                "donate"
+                ],
     "pluginsConfig": {
-    "sharing": {
+        "sharing": {
             "douban": false,
             "facebook": false,
             "google": false,
@@ -42,29 +44,38 @@
             "shortName": "zhaoolee"
         },
         "github": {
-            "url": "https://github.com/zhaoolee/starsandclown"
+            "url": "https://github.com/zhaoolee/StarsAndClown"
         },
         "3-ba": {
             "token": "cffaa20fbe78d2ecb224270689e2da51"
         },
+        "ga": {
+            "token": "UA-136591510-1"
+        },
         "github-buttons": {
-          "buttons": [{
+            "buttons": [{
             "user": "zhaoolee",
             "repo": "StarsAndClown",
             "type": "star",
             "size": "large",
             "count": true
-          }, {
+        }, {
             "user": "zhaoolee",
             "type": "follow",
             "width": "230",
             "count": true
-          }]
+            }]
         },
         "tbfed-pagefooter": {
             "copyright":"Copyright zhaoolee@gmail.com",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "https://upload-images.jianshu.io/upload_images/3203841-428592cda14613cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+            "title": "",
+            "button": "咦?",
+            "wechatText": "老板大气!"
         }
-    }  
+    }
 }
