@@ -1,5 +1,5 @@
-Github星聚弃疗榜 = “群星汇聚✨”的优质仓库＋“放弃治疗🤡”的创意项目
-为Github优秀创意项目写一封推荐信，让Github优秀项目造福人类~
+# Github星聚弃疗榜 = 工具资源(星聚) + 极客精神(弃疗)
+为Github创意项目写一封推荐信，让Github优秀项目造福人类~
 Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
 
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
@@ -7,7 +7,6 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
 ## 弃疗榜(我有一个大胆的想法[手动滑稽])
-
 - 007 [弃疗榜] [《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
 
 -  006 [弃疗榜] [《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html) | [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
