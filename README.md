@@ -80,99 +80,99 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 >  **问:** 比删除计算机全部文件还要刺激的事是什么? **答**: 随机删除计算机内一半的文件
 
 
-#### 004 [[弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html)
+#### [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-e7c1e1cfbfc2f81d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > "如果你的程序没有bug, 只能说明它不够复杂", 这是一个放弃治疗的仓库! No Code仓库里没有任何代码, 但却有数量不菲的star, 属于Github里面的**名场面**, 推荐游览~
 
 
-#### 005 [[弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html)
+#### [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-57d9d96f8cb4b398.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  用过之后, 你会欲罢不能, 回不去了, 回不去了, 哈哈, ~ (慢慢的你会发现, The**Fuck**是也是属于全人类的)
 
 
-####  006 [[弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html)
+#### [006 [弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html)
 >![](https://upload-images.jianshu.io/upload_images/3203841-bafe363340d63511.gif?imageMogr2/auto-orient/strip)
 > 学习强国是个好东西, 但变成强制性的每日至少 30+的积分, 就完全变了味道, 有热心的程序员开发了一个自动刷分的软件,软件横跨Windows, macOS, Linux 三大平台, 下载解压,无需安装, 点开即用,从github仓库下载软件运行后, 软件会模拟鼠标键盘行为,刷取时长...
 
-####  007 [[弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) 
+#### [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-67e30df84f80079a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 与GFW斗智斗勇的一个库...
 
 
-#### 101 [[开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
+#### [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-e63925b7dfea15a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  为了抵制百度网盘的限速行为, 终于把神级下载工具Aria2给祭了出去, Aria2无论是性能还是可玩性都非常好, 适合极客党折腾, 但Aria2只是很纯粹的下载工具, 如果你被度娘关了小黑屋,Aria2也救不了你, 老老实实开个会员吧~
 
 
-#### 102 [[开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) 
+#### [102 [开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4c39bbd3aab7d2fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  you-get本来是抓youtube视频的, 但放到B站, 会员视频和弹幕也能很方便的下载下来, 然后用PotPlayer本地播放, 在本地播放B站会员视频加弹幕真的是嗨到不行啦~
 
 
-#### 103 [[开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html)
+#### [103 [开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-078a6fa4679dd156.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 用Markdown写公众号? 以前想都不敢想, 现在居然实现了! 而且还非常好用!而且还开源了(永久免费了!)
 
-####  104 [[开源工具] 《谷歌在线压缩图片》](https://squoosh.app/)
+#### [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4958e787bce68e78.gif?imageMogr2/auto-orient/strip)
 > 这款开源工具曾被各大论坛吹爆, 非常适合调整单张图片的压缩比例, 可以实时预览压缩效果~
 
-#### 201 [[开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html)
+#### [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-477925a8715b2f55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 深度学习开源资料库, 资源一直在那里, 只要你想学, 就能学到!
 
-#### 202 [[开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html)
+#### [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-056092a96024dac7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 腾讯前端团队技术周刊, 质量很不错, 行文风格严谨不失风趣, 鹅厂程序员的技术还是很优秀的!
 
-#### 203 [[开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) 
+#### [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-2df5aa4ab6b60032.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~( 现在已经完成20多篇文章, 一周会更新2-3篇)
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
 
-#### 204 [[开源阅读] 《阮一峰技术分享周刊，每周五发布》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.html)
+#### [204 [开源阅读] 《阮一峰技术分享周刊，每周五发布》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-50fe3d959eee795e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 阮一峰老师是我见过中文博客写的最好的人之一, 阮一峰老师关于前端方面的博客,写的超棒,没有多余的文字, 每一份配图和示例代码, 都恰到好处~
 
 
 
-#### 205 [[开源阅读] 《HelloGithub, 分享GitHub入门级开源项目》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.html)
+#### [205 [开源阅读] 《HelloGithub, 分享GitHub入门级开源项目》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8a3894decbeea4f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 作为一个Github老司机, 最好每天逛一逛github的趋势榜 [https://github.com/trending](https://github.com/trending), 从而了解GitHub的最新动态, 如果平时时间很少, 每月28号逛一逛[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)也是不错的选择, 这里类似一个月刊, 每个月会更新一期, 推荐优秀的github仓库~
 
 
 
 
- #### 301  [[设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)
+ #### [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8c4816f2bbcb699a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 优秀的泛中日韩字体真的很少, 而开源的中日韩字体就更少了, 这套思源黑体是一套非常优秀的字体, 墙裂推荐~
 
 
-#### 401 [[Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html)
+#### [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-6118289e6d2bec6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 自己搭一个服务器, 肯定会更稳定一些, 如果你对Linux操作不熟悉, 只需要按照文章一步一步完成就好, 自己搭建科学上网服务的成就感, 会给你带来更多的热情去学习新技术
 
- #### 402 [[Linux老司机] 《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html)
+ #### [402 [Linux老司机] 《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-7072b7dfd826aa2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 > 在Github建立的博客大多是一些静态的页面, 每次更新内容需要手动生成页面, 然后push到github, 我研究了一下可以自动生成静态页面的工具, 其中hexo最为热门, hexo拥有丰富的主题库, 满足你折腾的心~
 
 
-#### 501 [[前端开发] 《纯粹的Css动画库》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.html)
+#### [501 [前端开发] 《纯粹的Css动画库》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-5e55e8501938ce1f.gif?imageMogr2/auto-orient/strip)
 >  为网站添加css动画, 是为网页增加趣味性最简单的方法, 如果css动画能做的酷炫一些, 网页的趣味性也会增强~
 
-#### 502 [[前端开发] 《Markdown转Html》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-markdown-zhuan-html.html)
+#### [502 [前端开发] 《Markdown转Html》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-markdown-zhuan-html.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-7986ef23fc942071.gif?imageMogr2/auto-orient/strip)
 > 真正意义上的轮子库, 使用这个库😎, Markdown转换为Html,也用不了几行代码
 
 
-#### 601 [[Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html)
+#### [601 [Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f87816d21901ae83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > Python脚本转成exe, 让你的Python脚本在Windows上运行, 其实是非常容易的事情~
 
-#### 602 [[Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html)
+#### [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-d4817c37c755670c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  人生苦短, 发邮件这种事情, 其实, 三行代码就可以搞定的~
 
