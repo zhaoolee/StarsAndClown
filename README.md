@@ -7,72 +7,72 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
 ## 弃疗榜(我有一个大胆的想法[手动滑稽])
-- 007 [[弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
+- [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
 
--  006 [[弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html) | [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
+-  [006 [弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html) | [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
 
-- 005 [[弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html) | [仓库传送⛩](https://github.com/nvbn/thefuck)
+- [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html) | [仓库传送⛩](https://github.com/nvbn/thefuck)
 
-- 004 [[弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html) | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
+- [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html) | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
 
-- 003 [[弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
+- [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
 
 - 002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | [仓库传送⛩](https://github.com/ccyyycy/ycy)
 
-- 001 [[弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
+- [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
 
 ## 星聚榜(这是我见过最好的库!)
 
-- 101 [[开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html) | [仓库传送⛩](https://github.com/aria2/aria2)
-- 102 [[开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) | [仓库传送⛩](https://github.com/soimort/you-get)
-- 103 [[开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html) | [仓库传送⛩](https://github.com/lyricat/wechat-format)
--  104 [[开源工具] 《谷歌在线压缩图片》](https://squoosh.app/) | [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/)
+- [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html) | [仓库传送⛩](https://github.com/aria2/aria2)
+- [102 [开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) | [仓库传送⛩](https://github.com/soimort/you-get)
+- [103 [开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html) | [仓库传送⛩](https://github.com/lyricat/wechat-format)
+-  [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/) | [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/)
 
-- 201 [[开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions)
+- [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions)
 
-- 202 [[开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | [仓库传送⛩](https://github.com/iv-web/weekly)
-- 203 [[开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
-
-
-- 204 [[开源阅读] 《阮一峰技术分享周刊，每周五发布》](https://github.com/ruanyf/weekly) | [仓库传送⛩](https://github.com/ruanyf/weekly)
+- [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | [仓库传送⛩](https://github.com/iv-web/weekly)
+- [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
 
 
-- 205 [[开源阅读]《HelloGithub, 分享GitHub入门级开源项目》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.html) | [仓库传送⛩](https://github.com/521xueweihan/HelloGitHub)
+- [204 [开源阅读] 《阮一峰技术分享周刊，每周五发布》](https://github.com/ruanyf/weekly) | [仓库传送⛩](https://github.com/ruanyf/weekly)
 
 
+- [205 [开源阅读]《HelloGithub, 分享GitHub入门级开源项目》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.html) | [仓库传送⛩](https://github.com/521xueweihan/HelloGitHub)
 
 
 
 
 
 
- - 301  [[设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
 
-- 401 [[Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
 
- - 402 [Linux老司机] [《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html) | [仓库传送⛩](https://github.com/hexojs/hexo)
+ - [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
 
-- 501 [[前端开发] 《纯粹的Css动画库》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
+- [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
 
-- 502 [[前端开发] 《Markdown转Html》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-markdown-zhuan-html.html) | [仓库传送⛩](https://github.com/showdownjs/showdown)
+ - [402 [Linux老司机] 《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html) | [仓库传送⛩](https://github.com/hexojs/hexo)
 
-- 601 [[Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html) | [仓库传送⛩](https://github.com/pyinstaller/pyinstaller)
+- [501 [前端开发] 《纯粹的Css动画库》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
 
-- 602 [[Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html) | [仓库传送⛩](https://github.com/kootenpv/yagmail)
+- [502 [前端开发] 《Markdown转Html》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-markdown-zhuan-html.html) | [仓库传送⛩](https://github.com/showdownjs/showdown)
+
+- [601 [Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html) | [仓库传送⛩](https://github.com/pyinstaller/pyinstaller)
+
+- [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html) | [仓库传送⛩](https://github.com/kootenpv/yagmail)
 
 
 ## 概要(2019年3月23日更新)
-#### 001 [[弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html)
+#### [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-af0a1459343a9acd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  以前我在B站只能见到**个位数**的女装大佬, 现在我在github看到了女装大佬集群! 在线观看地址: [https://drsrel.github.io/photos](https://drsrel.github.io/photos)
 
 
-#### 002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html)
+#### [002 [弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-d01a13d8dfda918b.gif?imageMogr2/auto-orient/strip)
 > 这是一个集结了**中国锦鲤**程序员粉丝团的仓库, 2019年,我有幸蹭到了**中国锦鲤**第2019份好运气,希望**许愿今年本仓库的✨能破万**, 如果你同时对对**中国锦鲤**和**编程**感兴趣, 可以搜索 **超越杯编程大赛**!
 
 
-#### 003 [[弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html)
+#### [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ef5f21719c442677.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-a7c5e5b49f57b3cd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
