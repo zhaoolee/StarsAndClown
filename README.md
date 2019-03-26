@@ -6,6 +6,9 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
+## 最近更新文章(2018年3月26日)
+☀️ [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
+
 ## 弃疗榜(我有一个大胆的想法[手动滑稽])
 - [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
 
@@ -42,10 +45,6 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 
 
-
-
-
-
  - [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
 
 - [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
@@ -59,7 +58,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 - [601 [Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html) | [仓库传送⛩](https://github.com/pyinstaller/pyinstaller)
 
 - [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html) | [仓库传送⛩](https://github.com/kootenpv/yagmail)
-
+- [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
 
 ## 概要(2019年3月23日更新)
 #### [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html)
@@ -175,6 +174,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 #### [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-d4817c37c755670c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  人生苦短, 发邮件这种事情, 其实, 三行代码就可以搞定的~
+
+#### [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-6968923640ab191d.gif?imageMogr2/auto-orient/strip)
+> 俄罗斯方块属于超级经典的游戏, 感兴趣可以玩一下, 找回一点童年~
 
 ---
 
