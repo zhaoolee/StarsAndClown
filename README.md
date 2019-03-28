@@ -125,7 +125,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 #### [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
 
-![](https://upload-images.jianshu.io/upload_images/3203841-44e3b9e8ce27419b.gif?imageMogr2/auto-orient/strip)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-44e3b9e8ce27419b.gif?imageMogr2/auto-orient/strip)
+> SwitchHosts!能让软件开发者更方便的切换hosts, 而且开源跨平台, 是一个非常值得收藏的软件~
 
 
 #### [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html)
