@@ -7,6 +7,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
 ## 最近更新文章(2018年3月26日)
+☀️ [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
 ☀️ [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
 
 ## 弃疗榜(我有一个大胆的想法[手动滑稽])
@@ -20,7 +21,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 - [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
 
-- 002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | [仓库传送⛩](https://github.com/ccyyycy/ycy)
+- [002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | [仓库传送⛩](https://github.com/ccyyycy/ycy)
 
 - [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
 
@@ -30,6 +31,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 - [102 [开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) | [仓库传送⛩](https://github.com/soimort/you-get)
 - [103 [开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html) | [仓库传送⛩](https://github.com/lyricat/wechat-format)
 -  [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/) | [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/)
+
+- [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
 
 - [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions)
 
@@ -116,6 +119,14 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 #### [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4958e787bce68e78.gif?imageMogr2/auto-orient/strip)
 > 这款开源工具曾被各大论坛吹爆, 非常适合调整单张图片的压缩比例, 可以实时预览压缩效果~
+
+
+
+
+#### [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
+
+![](https://upload-images.jianshu.io/upload_images/3203841-44e3b9e8ce27419b.gif?imageMogr2/auto-orient/strip)
+
 
 #### [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-477925a8715b2f55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
