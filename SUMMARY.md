@@ -24,4 +24,5 @@
 * [\[开源阅读\] 阮一峰技术分享周刊,每周五更新](kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.md)
 * [\[开源阅读\] HelloGithub, 分享GitHub入门级开源项目](kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.md)
 * [\[开源游戏\]俄罗斯方块](kai-yuan-you-620f5d-e-luo-si-fang-kuai.md)
+* [\[开源工具\]SwitchHosts!更方便地切换hosts](kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.md)
 
