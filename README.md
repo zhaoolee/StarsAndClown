@@ -1,4 +1,4 @@
-# Github星聚弃疗榜 = 工具资源(星聚) + 极客精神(弃疗)
+# Github星聚弃疗榜 = 工具资源 + 极客精神
 为Github创意项目写Wiki，让Github优秀项目造福人类~
 Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
 
