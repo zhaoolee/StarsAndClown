@@ -1,5 +1,5 @@
 # Github星聚弃疗榜 = 工具资源(星聚) + 极客精神(弃疗)
-为Github创意项目写一封推荐信，让Github优秀项目造福人类~
+为Github创意项目写Wiki，让Github优秀项目造福人类~
 Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
 
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
@@ -49,6 +49,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 
  - [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
+ 
+-
 
 - [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
 
