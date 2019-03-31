@@ -50,7 +50,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
  - [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
  
--
+- [302 [设计资源] PPT缺少图标素材? 试试Font Awasome吧!](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
+
 
 - [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
 
@@ -162,7 +163,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8c4816f2bbcb699a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 优秀的泛中日韩字体真的很少, 而开源的中日韩字体就更少了, 这套思源黑体是一套非常优秀的字体, 墙裂推荐~
 
-#### [302 ]
+#### [302 [设计资源] PPT缺少图标素材? 试试Font Awasome吧!](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4d8ef2c280b6d8cb.gif?imageMogr2/auto-orient/strip)
 
