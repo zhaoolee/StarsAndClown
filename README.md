@@ -6,8 +6,14 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
-## 最近更新文章(2018年3月26日)
+## 最近更新文章(2018年3月31日)
+
+
+☀️ [302 [设计资源] PPT缺少图标素材? 试试Font Awasome吧!](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
+
 ☀️ [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
+
+
 ☀️ [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
 
 ## 弃疗榜(我有一个大胆的想法[手动滑稽])
