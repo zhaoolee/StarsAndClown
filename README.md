@@ -162,6 +162,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8c4816f2bbcb699a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 优秀的泛中日韩字体真的很少, 而开源的中日韩字体就更少了, 这套思源黑体是一套非常优秀的字体, 墙裂推荐~
 
+#### [302 ]
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-4d8ef2c280b6d8cb.gif?imageMogr2/auto-orient/strip)
+
+
+- 推荐一套名为`Font Awesome 5 Free`的字体, 这套特殊的字体, 可以将英文单词(关键词)转换为图标, 转换而来的图标, 本质是一个字符(无限放大也会非常清晰), 你可以为它设置字号, 颜色, 如果你用的足够熟练, 可以直接通过输入关键词, 快速获取对应图标(提供1500个图标, 满足你大部分设计需求!) ~
+
 
 #### [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-6118289e6d2bec6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
