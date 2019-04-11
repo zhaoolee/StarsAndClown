@@ -2,7 +2,7 @@
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4c60baaed9f667de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-c5621a4596a24303.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ---
-> you-get是一个优秀的开源下项目，优点是免费而且功能强大，开放源代码，不会限制功能， 以下是具体操作步骤~
+> you-get是一个优秀的开源下项目，优点是免费而且功能强大，开放源代码，无功能限制， 以下是具体操作步骤~
 
 ## 安装firefox
 [下载地址](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN&attribution_code=c291cmNlPXd3dy5nb29nbGUuY29tJm1lZGl1bT1yZWZlcnJhbCZjYW1wYWlnbj0obm90IHNldCkmY29udGVudD0obm90IHNldCk.&attribution_sig=5d58068ab4ba5299f75ac9c252cf1dc4d489fe60ad5cb511a02222e81f68e2a5)
