@@ -1,5 +1,5 @@
 # Github星聚弃疗榜 = 工具资源 + 极客精神
-为Github创意项目写Wiki，让Github优秀项目造福人类~
+为Github创意项目写一本推荐书📚，让Github优秀项目造福人类~
 Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
 
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
