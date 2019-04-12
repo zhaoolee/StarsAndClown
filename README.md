@@ -8,6 +8,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 ## 最近更新文章(2018年3月31日)
 
+☀️ [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html)
 
 ☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
 
@@ -73,6 +74,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 - [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html) | [仓库传送⛩](https://github.com/kootenpv/yagmail)
 
 - [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html) [仓库传送⛩](https://github.com/chvin/react-tetris)
+
+- [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html)
 
 
 ## 概要(2019年3月23日更新)
@@ -209,6 +212,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 #### [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-6968923640ab191d.gif?imageMogr2/auto-orient/strip)
 > 俄罗斯方块属于超级经典的游戏, 感兴趣可以玩一下, 找回一点童年~
+
+#### [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-dc958a4502e66ab3.gif)
+
+打字对编程本身的影响不大,但花几个星期练一下打字绝对是好事, 比如:
+- 你更愿意写注释了;
+- 快速的聊天回复使你更好地保护你的工作思路；
+- 聊天回复快的程序员, 都有了女友, 站在程序员鄙视链巅峰！
+
+
+
 
 ---
 
