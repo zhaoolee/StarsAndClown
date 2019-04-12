@@ -210,7 +210,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 >  人生苦短, 发邮件这种事情, 其实, 三行代码就可以搞定的~
 
 #### [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6968923640ab191d.gif?imageMogr2/auto-orient/strip)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-6968923640ab191d.gif)
 > 俄罗斯方块属于超级经典的游戏, 感兴趣可以玩一下, 找回一点童年~
 
 #### [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html)
