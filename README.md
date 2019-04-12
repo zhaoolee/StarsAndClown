@@ -8,7 +8,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 ## 最近更新文章(2018年4月12日)
 
-☀️ [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html)
+☀️ [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
+
 
 ☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
 
