@@ -8,16 +8,13 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 ## 最近更新文章(2018年4月12日)
 
+☀️ [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html)
+
+
 ☀️ [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
 
 
 ☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
-
-☀️ [105 [开源工具]《SwitchHosts!更方便地切换hosts》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
-
-
-☀️ [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html) | [仓库传送⛩](https://github.com/chvin/react-tetris)
-
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
 - [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
@@ -228,11 +225,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 #### [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html)
 
 
-
-
-
-
-
+> ![](https://upload-images.jianshu.io/upload_images/3203841-ede932eccd647e64.gif?imageMogr2/auto-orient/strip)
+- 这是一个网页版CXK打篮球的小游戏，玩法和经典小游戏打砖块类似
+- 方向键左右可以控制CXK左右移动（也可以使用AD键代替）
+- 由于CXK的头一直在左右摇摆, 所以撞击篮球后, 篮球反弹的角度基本不受控制
 
 ---
 
