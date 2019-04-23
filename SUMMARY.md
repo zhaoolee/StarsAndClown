@@ -27,4 +27,5 @@
 * [\[开源工具\]SwitchHosts!更方便地切换hosts](kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.md)
 * [\[设计资源\] PPT缺少图标素材? 试试Font Awasome吧!](she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.md)
 * [\[开源游戏\] 打字速度慢?玩一玩自由钢琴吧~](kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.md)
+* [\[开源游戏\] CXK, 出来打球!](kai-yuan-you-620f5d-cxk-chu-lai-da-740321.md)
 
