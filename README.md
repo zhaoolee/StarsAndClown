@@ -8,7 +8,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 ## 最近更新文章(2019年4月23日)
 
-☀️ [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html)
+☀️ [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball)
 
 
 ☀️ [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
@@ -17,7 +17,9 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 ☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
-- [008 [弃疗榜]《杭州买房购房知识》]
+
+- [008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge) | [仓库传送⛩](https://github.com/houshanren/hangzhou_house_knowledge)
+
 
 - [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
 
