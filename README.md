@@ -46,6 +46,10 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 - [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
 
+- 106 [开源工具]Mac生产力工具链推荐 | [仓库传送⛩](https://github.com/Louiszhai/tool)
+
+
+
 - [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions)
 
 - [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | [仓库传送⛩](https://github.com/iv-web/weekly)
