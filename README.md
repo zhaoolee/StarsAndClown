@@ -27,59 +27,34 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 | [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html) | ![](https://img.shields.io/github/stars/nvbn/thefuck.svg) | [仓库传送⛩](https://github.com/nvbn/thefuck)
 | [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html) | ![](https://img.shields.io/github/stars/kelseyhightower/nocode.svg) | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
 | [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | ![](https://img.shields.io/github/stars/hotvulcan/Thanos.sh.svg) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh) |
-| [002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | ![](https://img.shields.io/github/stars/ccyyycy/ycy.svg) | [仓库传送⛩](https://github.com/ccyyycy/ycy) |
+| [002 [弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | ![](https://img.shields.io/github/stars/ccyyycy/ycy.svg) | [仓库传送⛩](https://github.com/ccyyycy/ycy) |
 | [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | ![](https://img.shields.io/github/stars/daneden/animate.css.svg) | [仓库传送⛩](https://github.com/daneden/animate.css)|
 
 ## 星聚榜(这是我见过最好的库!)
-
-- [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html) | [仓库传送⛩](https://github.com/aria2/aria2)
-- [102 [开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) | [仓库传送⛩](https://github.com/soimort/you-get)
-- [103 [开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html) | [仓库传送⛩](https://github.com/lyricat/wechat-format)
--  [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/) | [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/)
-
-- [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
-
-- [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md) | [仓库传送⛩](https://github.com/Louiszhai/tool)
-
-
-
-- [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions)
-
-- [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | [仓库传送⛩](https://github.com/iv-web/weekly)
-- [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes)
-
-
-- [204 [开源阅读] 《阮一峰技术分享周刊，每周五发布》](https://github.com/ruanyf/weekly) | [仓库传送⛩](https://github.com/ruanyf/weekly)
-
-
-- [205 [开源阅读]《HelloGithub, 分享GitHub入门级开源项目》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.html) | [仓库传送⛩](https://github.com/521xueweihan/HelloGitHub)
-
-
-
-
- - [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| [仓库传送⛩](https://github.com/adobe-fonts/source-han-sans)
- 
-- [302 [设计资源] PPT缺少图标素材? 试试Font Awasome吧!](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
-
-
-- [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
-
-
- - [402 [Linux老司机] 《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html) | [仓库传送⛩](https://github.com/hexojs/hexo)
-
-- [501 [前端开发] 《纯粹的Css动画库》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
-
-- [502 [前端开发] 《Markdown转Html》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-markdown-zhuan-html.html) | [仓库传送⛩](https://github.com/showdownjs/showdown)
-
-- [601 [Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html) | [仓库传送⛩](https://github.com/pyinstaller/pyinstaller)
-
-- [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html) | [仓库传送⛩](https://github.com/kootenpv/yagmail)
-
-- [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html) [仓库传送⛩](https://github.com/chvin/react-tetris)
-
-- [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html)
-
-- [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html)
+| 介绍 | stars | link |
+| -- | -- | -- |
+| [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html) | ![](https://img.shields.io/github/stars/aria2/aria2.svg) | [仓库传送⛩](https://github.com/aria2/aria2) |
+| [102 [开源工具] 《本地播放B站会员视频及弹幕, 开源工具you-get使用攻略》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-ben-di-bo-fang-b-zhan-hui-yuan-shi-pin-ji-dan-5e552c-kai-yuan-gong-ju-you-get-shi-yong-gong-lve.html) | ![](https://img.shields.io/github/stars/soimort/you-get.svg) | [仓库传送⛩](https://github.com/soimort/you-get) |
+| [103 [开源工具] 《开源工具将Markdown格式转换为微信公众号格式》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-kai-yuan-gong-ju-jiang-markdown-ge-shi-zhuan-huan-wei-wei-xin-gong-zhong-hao-ge-shi.html) | ![](https://img.shields.io/github/stars/lyricat/wechat-format.svg) | [仓库传送⛩](https://github.com/lyricat/wechat-format) |
+| [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/) | ![](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh.svg) | [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/) |
+| [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | ![](https://img.shields.io/github/stars/oldj/SwitchHosts.svg) | [仓库传送⛩](https://github.com/oldj/SwitchHosts) | 
+| [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md)|   ![](https://img.shields.io/github/stars/Louiszhai/tool.svg) | [仓库传送⛩](https://github.com/Louiszhai/tool) |
+| [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | ![](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions) |
+| [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | ![](https://img.shields.io/github/stars/iv-web/weekly.svg) | [仓库传送⛩](https://github.com/iv-web/weekly) |
+| [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | ![](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes) |
+| [204 [开源阅读] 《阮一峰技术分享周刊，每周五发布》](https://github.com/ruanyf/weekly) | ![](https://img.shields.io/github/stars/ruanyf/weekly.svg) | [仓库传送⛩](https://github.com/ruanyf/weekly) |
+| [205 [开源阅读]《HelloGithub, 分享GitHub入门级开源项目》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.html)| ![](https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg) | [仓库传送⛩](https://github.com/521xueweihan/HelloGitHub) |
+| [301  [设计资源] 《Adobe思源黑体下载》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-adobe-si-yuan-hei-ti-xia-zai.html)| ![](https://img.shields.io/github/stars/adobe-fonts/source-han-sans.svg)  |[仓库传送⛩](https://github.com/adobe-fonts/source-han-sans) |
+|[302 [设计资源] PPT缺少图标素材? 试试Font Awasome吧!](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | ![](https://img.shields.io/github/stars/FortAwesome/Font-Awesome.svg) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/) |
+| [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | ![](https://img.shields.io/github/stars/txthinking/brook.svg) | [仓库传送⛩](https://github.com/txthinking/brook) |
+| [402 [Linux老司机] 《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html) | ![](https://img.shields.io/github/stars/hexojs/hexo.svg) | [仓库传送⛩](https://github.com/hexojs/hexo) | 
+| [501 [前端开发] 《纯粹的Css动画库》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-chun-cui-de-css-dong-hua-ku.html) | ![](https://img.shields.io/github/stars/daneden/animate.css.svg) | [仓库传送⛩](https://github.com/daneden/animate.css)|
+| [502 [前端开发] 《Markdown转Html》](https://zhaoolee.gitbooks.io/starsandclown/content/qian-duan-kai-53d15d-markdown-zhuan-html.html) | ![](https://img.shields.io/github/stars/showdownjs/showdown.svg) | [仓库传送⛩](https://github.com/showdownjs/showdown)|
+| [601 [Python神库] 《将Python程序(.py)转换为Windows可执行文件(.exe)》](https://zhaoolee.gitbooks.io/starsandclown/content/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html) | ![](https://img.shields.io/github/stars/pyinstaller/pyinstaller.svg) | [仓库传送⛩](https://github.com/pyinstaller/pyinstaller) |
+| [602 [Python神库] 《3行代码发邮件(含发送图片)》](https://zhaoolee.gitbooks.io/starsandclown/content/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html) | ![](https://img.shields.io/github/stars/kootenpv/yagmail.svg) | [仓库传送⛩](https://github.com/kootenpv/yagmail) |
+| [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html) | ![](https://img.shields.io/github/stars/chvin/react-tetris.svg) | [仓库传送⛩](https://github.com/chvin/react-tetris) |
+| [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | ![](https://img.shields.io/github/stars/WarpPrism/AutoPiano.svg) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
+| [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | ![](https://img.shields.io/github/stars/kasuganosoras/cxk-ball.svg) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball) |
 
 
 ## 概要(2019年3月23日更新)
