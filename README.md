@@ -17,27 +17,18 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 ☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
-
-- [010 弃疗榜《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md)![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University.svg) [仓库传送⛩](https://github.com/huangyz0918/Hackintosh-Installer-University) 
-
-- [009 [弃疗榜]《国人应该如何学习英语？》](https://byoungd.gitbook.io/english-level-up-tips/) ![](https://img.shields.io/github/stars/byoungd/English-level-up-tips-for-Chinese.svg) [仓库传送⛩](https://github.com/byoungd/English-level-up-tips-for-Chinese)
-
-- [008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md) ![](https://img.shields.io/github/stars/houshanren/hangzhou_house_knowledge.svg) [仓库传送⛩](https://github.com/houshanren/hangzhou_house_knowledge)
-
-
-- [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
-
--  [006 [弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html) | [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)
-
-- [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html) | [仓库传送⛩](https://github.com/nvbn/thefuck)
-
-- [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html) | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
-
-- [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh)
-
-- [002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | [仓库传送⛩](https://github.com/ccyyycy/ycy)
-
-- [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | [仓库传送⛩](https://github.com/daneden/animate.css)
+| 介绍 | stars | link |
+| -- | -- | -- |
+| [010 弃疗榜《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md) | ![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University.svg) | [仓库传送⛩](https://github.com/huangyz0918/Hackintosh-Installer-University) |
+| [009 [弃疗榜]《国人应该如何学习英语？》](https://byoungd.gitbook.io/english-level-up-tips/) | ![](https://img.shields.io/github/stars/byoungd/English-level-up-tips-for-Chinese.svg) | [仓库传送⛩](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+|[008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md) | ![](https://img.shields.io/github/stars/houshanren/hangzhou_house_knowledge.svg) | [仓库传送⛩](https://github.com/houshanren/hangzhou_house_knowledge) |
+| [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html)| ![](https://img.shields.io/github/stars/bannedbook/fanqiang.svg)  | [仓库传送⛩](https://github.com/bannedbook/fanqiang) | 
+| [006 [弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html) | ![](https://img.shields.io/github/stars/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo.svg) | [仓库传送⛩](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) |
+| [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html) | ![](https://img.shields.io/github/stars/nvbn/thefuck.svg) | [仓库传送⛩](https://github.com/nvbn/thefuck)
+| [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html) | ![](https://img.shields.io/github/stars/kelseyhightower/nocode.svg) | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
+| [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | ![](https://img.shields.io/github/stars/hotvulcan/Thanos.sh.svg) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh) |
+| [002 [[弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | ![](https://img.shields.io/github/stars/ccyyycy/ycy.svg) | [仓库传送⛩](https://github.com/ccyyycy/ycy) |
+| [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | ![](https://img.shields.io/github/stars/daneden/animate.css.svg) | [仓库传送⛩](https://github.com/daneden/animate.css)|
 
 ## 星聚榜(这是我见过最好的库!)
 
