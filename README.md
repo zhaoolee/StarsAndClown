@@ -18,9 +18,11 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
 
-- 009 [弃疗榜]《国人应该如何学习英语？》| [仓库传送⛩](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+- [010 弃疗榜《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md) | [仓库传送⛩](https://github.com/huangyz0918/Hackintosh-Installer-University)
 
-- 008 [弃疗榜]《超级详细的杭州买房购房知识》 | [仓库传送⛩](https://github.com/houshanren/hangzhou_house_knowledge)
+- [009 [弃疗榜]《国人应该如何学习英语？》](https://byoungd.gitbook.io/english-level-up-tips/) | [仓库传送⛩](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+
+- [008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md) | [仓库传送⛩](https://github.com/houshanren/hangzhou_house_knowledge)
 
 
 - [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html) | [仓库传送⛩](https://github.com/bannedbook/fanqiang)
@@ -46,7 +48,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 - [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | [仓库传送⛩](https://github.com/oldj/SwitchHosts)
 
-- 106 [开源工具]Mac生产力工具链推荐 | [仓库传送⛩](https://github.com/Louiszhai/tool)
+- [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md) | [仓库传送⛩](https://github.com/Louiszhai/tool)
 
 
 
@@ -70,6 +72,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 
 - [401 [Linux老司机] 《用Brook部署一个简单稳定傻瓜的科学上网工具》](https://zhaoolee.gitbooks.io/chrome/content/yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.html) | [仓库传送⛩](https://github.com/txthinking/brook)
+
 
  - [402 [Linux老司机] 《用HEXO在Github建立个人博客》](https://zhaoolee.gitbooks.io/starsandclown/content/xin-shou-shang-8def5d-300a-yong-hexo-zai-github-jian-li-ge-ren-bo-ke-300b.html) | [仓库传送⛩](https://github.com/hexojs/hexo)
 
