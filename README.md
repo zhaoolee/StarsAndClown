@@ -19,6 +19,9 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 ## 弃疗榜(你在github见过哪些沙雕库?)
 | 介绍 | stars | link |
 | -- | -- | -- |
+| [014 [弃疗榜]《本仓库收集任何内容(已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
+| [013 [弃疗榜]《让任意网页可以放屁》](https://github.com/theonion/fartscroll.js/blob/master/README.md) | ![](https://img.shields.io/github/stars/theonion/fartscroll.js.svg) | [仓库传送⛩](https://github.com/theonion/fartscroll.js) |
+| [012 [弃疗榜]《调侃特朗普行事风格的脚本》](https://github.com/samshadwell/TrumpScript/blob/master/README.md) | ![](https://img.shields.io/github/stars/samshadwell/TrumpScript.svg) | [仓库传送⛩](https://github.com/samshadwell/TrumpScript) |
 | [011 [弃疗榜]《剁手指南, 收集&推荐优秀的 Apps/硬件/技巧/周边等》](https://github.com/hzlzh/Best-App/blob/master/README.md) | ![](https://img.shields.io/github/stars/hzlzh/Best-App.svg) | [仓库传送⛩](https://github.com/hzlzh/Best-App) |
 | [010 [弃疗榜]《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md) | ![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University.svg) | [仓库传送⛩](https://github.com/huangyz0918/Hackintosh-Installer-University) |
 | [009 [弃疗榜]《国人应该如何学习英语？》](https://byoungd.gitbook.io/english-level-up-tips/) | ![](https://img.shields.io/github/stars/byoungd/English-level-up-tips-for-Chinese.svg) | [仓库传送⛩](https://github.com/byoungd/English-level-up-tips-for-Chinese)
