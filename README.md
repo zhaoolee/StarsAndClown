@@ -19,6 +19,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 ## 弃疗榜(你在github见过哪些沙雕库?)
 | 介绍 | stars | link |
 | -- | -- | -- |
+| [011 [弃疗榜]《剁手指南, 收集&推荐优秀的 Apps/硬件/技巧/周边等》](https://github.com/hzlzh/Best-App/blob/master/README.md) | ![](https://img.shields.io/github/stars/hzlzh/Best-App.svg) | [仓库传送⛩](https://github.com/hzlzh/Best-App) |
 | [010 [弃疗榜]《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md) | ![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University.svg) | [仓库传送⛩](https://github.com/huangyz0918/Hackintosh-Installer-University) |
 | [009 [弃疗榜]《国人应该如何学习英语？》](https://byoungd.gitbook.io/english-level-up-tips/) | ![](https://img.shields.io/github/stars/byoungd/English-level-up-tips-for-Chinese.svg) | [仓库传送⛩](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 |[008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md) | ![](https://img.shields.io/github/stars/houshanren/hangzhou_house_knowledge.svg) | [仓库传送⛩](https://github.com/houshanren/hangzhou_house_knowledge) |
