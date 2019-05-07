@@ -17,6 +17,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 ☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
+
+
 | 介绍 | stars | link |
 | -- | -- | -- |
 | [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
