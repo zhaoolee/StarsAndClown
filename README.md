@@ -61,7 +61,6 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 | [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | ![](https://img.shields.io/github/stars/kasuganosoras/cxk-ball.svg) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball) |
 
 
-## 概要(2019年3月23日更新)
 #### [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-af0a1459343a9acd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  以前我在B站只能见到**个位数**的女装大佬, 现在我在github看到了女装大佬集群! 在线观看地址: [https://drsrel.github.io/photos](https://drsrel.github.io/photos)
