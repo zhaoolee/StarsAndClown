@@ -19,8 +19,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 ## 弃疗榜(你在github见过哪些沙雕库?)
 | 介绍 | stars | link |
 | -- | -- | -- |
-| [014 [弃疗榜]《本仓库收集任何内容(已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
-| [013 [弃疗榜]《让任意网页可以放屁》](https://github.com/theonion/fartscroll.js/blob/master/README.md) | ![](https://img.shields.io/github/stars/theonion/fartscroll.js.svg) | [仓库传送⛩](https://github.com/theonion/fartscroll.js) |
+| [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
+| [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js/blob/master/README.md) | ![](https://img.shields.io/github/stars/theonion/fartscroll.js.svg) | [仓库传送⛩](https://github.com/theonion/fartscroll.js) |
 | [012 [弃疗榜]《调侃特朗普行事风格的脚本》](https://github.com/samshadwell/TrumpScript/blob/master/README.md) | ![](https://img.shields.io/github/stars/samshadwell/TrumpScript.svg) | [仓库传送⛩](https://github.com/samshadwell/TrumpScript) |
 | [011 [弃疗榜]《剁手指南, 收集&推荐优秀的 Apps/硬件/技巧/周边等》](https://github.com/hzlzh/Best-App/blob/master/README.md) | ![](https://img.shields.io/github/stars/hzlzh/Best-App.svg) | [仓库传送⛩](https://github.com/hzlzh/Best-App) |
 | [010 [弃疗榜]《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md) | ![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University.svg) | [仓库传送⛩](https://github.com/huangyz0918/Hackintosh-Installer-University) |
@@ -99,6 +99,61 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > 与GFW斗智斗勇的一个库...
 
 
+#### [008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-0f0ca281b04577fd.png)
+
+杭州房产知识扫盲,买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
+
+
+
+#### [009 [弃疗榜]《国人应该如何学习英语？》](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-780f61dc03ffdee7.png)
+
+可能是让你受益匪浅的英语进阶指南, 学习，难道不是人生最棒的乐趣么？
+
+
+#### [010 [弃疗榜]《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-25dbbf4f5e3b9dea.png)
+
+这个仓库非常适合喜欢折腾的人, 通过这个仓库的学习, 你将会了解到什么样的硬件适合安装一个黑苹果，并且在这个过程中你可以学习到很多计算机硬件的特性，例如 CPU、存储器和显卡等。你也可以了解到关于计算机启动和引导的一些知识，甚至还可以帮助编译同样是开源项目的一些计算机引导系统。如果你学的很不错,甚至可以开一个淘宝店,帮人装黑苹果,按照淘宝现在的行情,一台大致可以收入100RMB-200RMB的样子
+
+
+
+#### [011 [弃疗榜]《剁手指南, 收集&推荐优秀的 Apps/硬件/技巧/周边等》](https://github.com/hzlzh/Best-App)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-0d3d6e5e8fd2e911.png)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-c526c217d05f7e73.png)
+
+如果你是一个"苹果粉", 那你的钱包要小心了,项目收录了与apple产品相关的, 付费软件, 硬件配件,订阅服务, 以及周边, 作者创建仓库的初衷: **经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的， 于是创建了 BestApp 项目，旨在让推荐变得有章可循**
+
+
+#### [012 [弃疗榜]《调侃特朗普行事风格的脚本》](https://github.com/samshadwell/TrumpScript) 
+> ![](https://upload-images.jianshu.io/upload_images/3203841-a118bada0f206e0d.png)
+
+脚本特色(部分)
+- 没有浮点类型，因为美国人从来不做事做到一半。
+- 所有的数字必须严格大于一百万，小事对于我们是不值一提的。
+- 不允许任何外部库的引入，所有代码必须是纯正的“美国制造”。
+
+
+#### [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-b93df47a752ef1b1.png)
+
+人可以放屁,引入这个库,网页也可以~
+
+
+#### [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-872c3fd5568e3d44.png)
+
+作者想做一个很酷的仓库,但又不知道做什么是"酷"的, 所以, 就开了一个, 可以收录任何内容的仓库,结果引来大量程序员的贡献, 但贡献的内容几乎都是表情包~
+
+
+
 #### [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-e63925b7dfea15a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >  为了抵制百度网盘的限速行为, 终于把神级下载工具Aria2给祭了出去, Aria2无论是性能还是可玩性都非常好, 适合极客党折腾, 但Aria2只是很纯粹的下载工具, 如果你被度娘关了小黑屋,Aria2也救不了你, 老老实实开个会员吧~
@@ -132,12 +187,18 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > 深度学习开源资料库, 资源一直在那里, 只要你想学, 就能学到!
 
 #### [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html)
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-056092a96024dac7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 > 腾讯前端团队技术周刊, 质量很不错, 行文风格严谨不失风趣, 鹅厂程序员的技术还是很优秀的!
 
-#### [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-2df5aa4ab6b60032.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
->  🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~( 现在已经完成20多篇文章, 一周会更新2-3篇)
+#### [203 [开源阅读] 《谷粒-Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-65f557ebe2d43416.png)
+  
+
+>  🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~( 现在已经完成20多篇文章, 一周会更新2-3篇)
+
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
 
