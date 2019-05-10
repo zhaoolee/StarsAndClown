@@ -159,7 +159,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 #### [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/)
 
-![](https://upload-images.jianshu.io/upload_images/3203841-6af25f35e1fedf74.png)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-6af25f35e1fedf74.png)
 
 中国可以通过表情包, 实现文化输出,  但如何把表情包送出国门呢?
 用Github吧! 在Github建立一个表情包仓库, 或许可以让 它国人民 感受一下中国表情包的乐趣
