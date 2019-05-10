@@ -21,6 +21,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 | 介绍 | stars | link |
 | -- | -- | -- |
+| [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/) | ![](https://img.shields.io/github/stars/zhaoolee/ChineseBQB.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChineseBQB) |
 | [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
 | [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js/blob/master/README.md) | ![](https://img.shields.io/github/stars/theonion/fartscroll.js.svg) | [仓库传送⛩](https://github.com/theonion/fartscroll.js) |
 | [012 [弃疗榜]《调侃特朗普行事风格的脚本》](https://github.com/samshadwell/TrumpScript/blob/master/README.md) | ![](https://img.shields.io/github/stars/samshadwell/TrumpScript.svg) | [仓库传送⛩](https://github.com/samshadwell/TrumpScript) |
@@ -155,6 +156,13 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 作者想做一个很酷的仓库,但又不知道做什么是"酷"的, 所以, 就开了一个, 可以收录任何内容的仓库,结果引来大量程序员的贡献, 但贡献的内容几乎都是表情包~
 
+
+#### [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/)
+
+![](https://upload-images.jianshu.io/upload_images/3203841-6af25f35e1fedf74.png)
+
+中国可以通过表情包, 实现文化输出,  但如何把表情包送出国门呢?
+用Github吧! 在Github建立一个表情包仓库, 或许可以让 它国人民 感受一下中国表情包的乐趣
 
 
 #### [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
