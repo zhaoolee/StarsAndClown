@@ -6,7 +6,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 
-## 最近更新文章(2019年5月7日)
+## 最近更新文章(2019年5月21日)
 
 ☀️ [703 [开源游戏] 《CXK, 出来打球！》](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball)
 
@@ -48,6 +48,7 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 | [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/) | ![](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh.svg) | [仓库传送⛩](https://github.com/GoogleChromeLabs/squoosh/) |
 | [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | ![](https://img.shields.io/github/stars/oldj/SwitchHosts.svg) | [仓库传送⛩](https://github.com/oldj/SwitchHosts) | 
 | [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md)|   ![](https://img.shields.io/github/stars/Louiszhai/tool.svg) | [仓库传送⛩](https://github.com/Louiszhai/tool) |
+| [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)|   ![](https://img.shields.io/github/stars/Awesome-Windows/Awesome.svg) | [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) |
 | [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | ![](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions) |
 | [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | ![](https://img.shields.io/github/stars/iv-web/weekly.svg) | [仓库传送⛩](https://github.com/iv-web/weekly) |
 | [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | ![](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes) |
@@ -181,7 +182,9 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > 用Markdown写公众号? 以前想都不敢想, 现在居然实现了! 而且还非常好用!而且还开源了(永久免费了!)
 
 #### [104 [开源工具] 《谷歌在线压缩图片》](https://squoosh.app/)
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4958e787bce68e78.gif?imageMogr2/auto-orient/strip)
+
 > 这款开源工具曾被各大论坛吹爆, 非常适合调整单张图片的压缩比例, 可以实时预览压缩效果~
 
 
@@ -191,6 +194,21 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-44e3b9e8ce27419b.gif?imageMogr2/auto-orient/strip)
 > SwitchHosts!能让软件开发者更方便的切换hosts, 而且开源跨平台, 是一个非常值得收藏的软件~
+
+#### [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md) | [仓库传送⛩](https://github.com/Louiszhai/tool) 
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-2a90ec6fc8a908cf.png)
+
+
+工欲善其事必先利其器!这是一个关于macOS的软件推荐仓库, 涉及各种类型的软件, 本仓库侧重开发且兼顾产品的小伙伴, 通过阅读这个仓库的软件推荐, 能让你的macOS更上一层楼~
+
+
+#### [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) | [仓库传送⛩](https://github.com/Awesome-Windows/Awesome)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-08063d839ef18353.png)
+
+这是一个关于Windows的软件推荐仓库, 内含大量开源软件推荐,喜欢尝试新软件的小伙伴, 可以好好研究下这个仓库, 内含中文版本哦~
+
 
 
 #### [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html)
