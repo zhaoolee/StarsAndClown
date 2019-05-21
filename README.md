@@ -1,11 +1,16 @@
 # Github星聚弃疗榜(Github星爆沙雕榜)
+
 - Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~
 
 - Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
+**Github有哪些沙雕库? 有哪些吃瓜群众也能玩的嗨的库? 在这里,你将找到满意的答案[手动滑稽]**
+
+
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
+> 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
 ## 最近更新(2019年5月21日)
 
