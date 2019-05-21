@@ -1,7 +1,7 @@
 # Github星聚弃疗榜(Github星爆沙雕榜)
 - Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~
 
-- Let the people who eat me can enjoy the fun of Github~
+- Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
