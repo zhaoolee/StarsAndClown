@@ -1,6 +1,8 @@
 # Github星聚弃疗榜(Github星爆沙雕榜)
-为Github创意项目写一本推荐书，让Github优秀项目造福人类~
-Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
+- Github星聚弃疗榜, 创意仓库就这样! 
+- 为Github创意项目写一封推荐信,让吃瓜群众也能享受Github带来的乐趣~
+
+- Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
 
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
@@ -10,7 +12,9 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 
 ☀️  [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)|   [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) 
+
 ☀️  [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) | [仓库传送⛩](https://github.com/agalwood/Motrix) 
+
 ☀️  [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) 
 
 
