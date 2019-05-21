@@ -1,8 +1,7 @@
 # Github星聚弃疗榜(Github星爆沙雕榜)
-- Github星聚弃疗榜, 创意仓库就这样! 
-- 为Github创意项目写一封推荐信,让吃瓜群众也能享受Github带来的乐趣~
+- Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~
 
-- Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~
+- Let the people who eat me can enjoy the fun of Github~
 
 **项目地址**: https://github.com/zhaoolee/StarsAndClown
 **在线阅读**: https://zhaoolee.gitbooks.io/starsandclown/content/
