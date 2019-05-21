@@ -8,13 +8,11 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 
 ## 最近更新文章(2019年5月21日)
 
-☀️ [703 [开源游戏] 《CXK, 出来打球！》](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball)
 
+☀️  [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)|   [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) 
+☀️  [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) | [仓库传送⛩](https://github.com/agalwood/Motrix) 
+☀️  [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) 
 
-☀️ [702 [开源游戏] 《打字速度慢?玩一玩自由钢琴吧~》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
-
-
-☀️ [302 [设计资源]《PPT缺少图标素材? 试试Font Awasome吧!》](https://zhaoolee.gitbooks.io/starsandclown/content/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.html) | [仓库传送⛩](https://github.com/FortAwesome/Font-Awesome/)
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
 
@@ -49,6 +47,8 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 | [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | ![](https://img.shields.io/github/stars/oldj/SwitchHosts.svg) | [仓库传送⛩](https://github.com/oldj/SwitchHosts) | 
 | [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md)|   ![](https://img.shields.io/github/stars/Louiszhai/tool.svg) | [仓库传送⛩](https://github.com/Louiszhai/tool) |
 | [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)|   ![](https://img.shields.io/github/stars/Awesome-Windows/Awesome.svg) | [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) |
+| [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md)|   ![](https://img.shields.io/github/stars/agalwood/Motrix.svg) | [仓库传送⛩](https://github.com/agalwood/Motrix) |
+| [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/)|   ![](https://img.shields.io/github/stars/webtorrent/webtorrent.svg) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) |
 | [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | ![](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions) |
 | [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | ![](https://img.shields.io/github/stars/iv-web/weekly.svg) | [仓库传送⛩](https://github.com/iv-web/weekly) |
 | [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | ![](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes) |
@@ -208,6 +208,20 @@ Write a letter of recommendation for Github's outstanding creative projects, and
 > ![](https://upload-images.jianshu.io/upload_images/3203841-08063d839ef18353.png)
 
 这是一个关于Windows的软件推荐仓库, 内含大量开源软件推荐,喜欢尝试新软件的小伙伴, 可以好好研究下这个仓库, 内含中文版本哦~
+
+#### [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) [仓库传送⛩](https://github.com/agalwood/Motrix) 
+
+![](https://upload-images.jianshu.io/upload_images/3203841-d73df5d2ae399c26.png)
+
+Motrix是一款全能的开源下载工具, 支持http, Ftp, Bt, 磁力链接, 百度网盘等资源
+
+
+#### [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) 
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-d12b9416fe15fc74.png)
+
+
+一款开源免费的种子播放器, 支持边下边播, 让你在线无等待播放种子电影~
 
 
 
