@@ -14,6 +14,7 @@
 
 ## 最近更新(2019年5月21日)
 
+☀️  [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) 
 
 ☀️  [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)|   [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) 
 
@@ -27,6 +28,7 @@
 
 | 介绍 | stars | link |
 | -- | -- | -- |
+| [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) | ![](https://img.shields.io/github/stars/yadox666/The-Hackers-Hardware-Toolkit) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) |
 | [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/) | ![](https://img.shields.io/github/stars/zhaoolee/ChineseBQB.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChineseBQB) |
 | [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
 | [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js/blob/master/README.md) | ![](https://img.shields.io/github/stars/theonion/fartscroll.js.svg) | [仓库传送⛩](https://github.com/theonion/fartscroll.js) |
@@ -172,6 +174,15 @@
 
 中国可以通过表情包, 实现文化输出,  但如何把表情包送出国门呢?
 用Github吧! 在Github建立一个表情包仓库, 或许可以让 它国人民 感受一下中国表情包的乐趣
+
+#### [016 [弃疗榜]《黑客硬件装备购买指南》]（https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf）
+
+![](https://upload-images.jianshu.io/upload_images/3203841-1018ae01dfe8b6cb.jpg)
+
+![](https://upload-images.jianshu.io/upload_images/3203841-f165ec4d315730de.png)
+
+
+程序员江湖中, 名门大派重视内功, 修炼C++, Java, Python等语言的内功心法, 当然也有潜伏于暗处的刺客, 他们有各种各样的暗器妙法, 让很多看似安全的系统瞬间崩溃, TheHackersHardwareToolkit提供了大量的黑客硬件装备的介绍,并附上了购买链接, 闲暇时候去玩一玩硬件装备,也是不错的选择
 
 
 #### [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
