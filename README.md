@@ -12,7 +12,7 @@
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bfb9c8d9fbcf3958.png)
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
-## 最近更新(2019年5月21日)
+## 最近更新(2019年5月24日)
 
 ☀️  [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) 
 
