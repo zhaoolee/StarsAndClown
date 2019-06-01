@@ -2,7 +2,7 @@
 - Brook是一个跨平台的代理/ VPN软件, 软件的目标是保持简单,傻瓜, 无感知.
 - Brook部署和使用比ss更简单, 如果ss某天挂了, 可以用Brook作为替代品.
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5605df13e403fe98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/103a07ce3aad4fcb99042d113758d5dd.png)
 
 
 
@@ -25,7 +25,7 @@ mkdir my_brook
 cd my_brook 
 wget https://github.com/txthinking/brook/releases/download/v20181212/brook
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9448ce3c2f497449.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/a5441bb922e141358be97593ed02c2f4.png)
 
 ## 开启服务
 
@@ -37,7 +37,7 @@ chmod 777 brook
 # 以非阻塞方式开启服务(比较推荐)
 ./brook server -l :9999 -p password /dev/null 2>&1 &
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-0a77ee94d33ef101.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/3123d6eb7c0240f0be10f4e84f24f0fa.png)
 
 ## 用客户端登录
 - 下载客户端
@@ -47,25 +47,25 @@ Mac客户端下载:https://github.com/txthinking/brook/releases/download/v201812
 IOS客户端下载(你可能需要美国区账户): https://itunes.apple.com/us/app/brook-brook-shadowsocks-vpn-proxy/id1216002642
 
 - 填写登录信息
-> ![](https://upload-images.jianshu.io/upload_images/3203841-66b5247145029dc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/ee9ace5ac4aa4954bfa0635dce054b7f.png)
 - 右击任务栏图标选择start
-> ![](https://upload-images.jianshu.io/upload_images/3203841-8ccec462d28867ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/61df874302054fb0b243f1667cf00d2f.png)
 
-> ![ios版本登录](http://upload-images.jianshu.io/upload_images/3203841-fe7ec1c34bca96a6.jpg)
+> ![ios版本登录](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/e6417ed2c8fa44c8be6d1bc7c3cd85e1.jpeg)
 
 
 
 
 - 可以愉快的上网了
-> ![](https://upload-images.jianshu.io/upload_images/3203841-203a274b85d48b26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/7d419ce83da34a148dba31a79d784651.png)
 
-> ![ios查看youtube](http://upload-images.jianshu.io/upload_images/3203841-b3d05eaf0e9fdad1.jpg)
+> ![ios查看youtube](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/cd34e1d662f04a05872a290ecc45906a.jpeg)
 
 
 
 > 如果你想让自己的服务更稳定一些, 可以继续往下读
 ## 先结束刚刚创建的进程
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7020f0c66da36544.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/abf28072e9654c8db85b7a7692cc0c4d.png)
 
 ## 安装守护进程pm2
 ```
@@ -89,7 +89,7 @@ vi start_brook.sh
 ```
 pm2 start start_brook.sh
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-e185ffdc46273745.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/f668cf1a9c3e4a87bbcafb982463d254.png)
 
 >  大功告成! 现在可以稳定的访问服务了, 即使brook服务端程序挂掉了, pm2也会自动重启brook服务端程序
 
@@ -100,7 +100,7 @@ pm2 start start_brook.sh
 ```
 pm2 list
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-73829862208172ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/bbc0911b0c7c46b2ae7aa41b49494c56.png)
 
 - 如何关闭brook服务端进程
 
@@ -108,11 +108,11 @@ pm2 list
 pm2 delete start_brook
 ```
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-cad2641c6c552b5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/0b99a8989e30413b9220791ef9dcedd1.png)
 
 ## 愉快的访问谷歌和油管吧~
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1350dc7b204001ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-fa9c64fbee8f97ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/a95904d07068414db84e426d6f4ca20e.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/1af4e19197464f89a9b51a42450ba755.png)
 
 
 ## 小结:

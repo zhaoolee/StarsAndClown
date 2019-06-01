@@ -1,4 +1,4 @@
-![](https://upload-images.jianshu.io/upload_images/3203841-97133ad1504814bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/87417cd4c4dd411d8dd0e1b5806046f4.png)
 
 “这么可爱，一定是男孩子！”
 

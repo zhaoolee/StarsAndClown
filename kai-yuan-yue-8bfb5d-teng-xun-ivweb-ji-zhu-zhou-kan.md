@@ -1,4 +1,4 @@
-> ![](https://upload-images.jianshu.io/upload_images/3203841-056092a96024dac7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/d36ade0371804acd9911faa8a7c1d470.png)
 > 每周一篇前端技术文, 腾讯出品, 质量很不错, 行文风格严谨不失风趣~
 
 ---

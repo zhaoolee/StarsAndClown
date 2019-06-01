@@ -1,4 +1,4 @@
-![](https://upload-images.jianshu.io/upload_images/3203841-8a3894decbeea4f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/2bb3770ef04d493c883a227d918221fd.png)
 
 
 作为一个Github老司机, 最好每天逛一逛github的趋势榜   [https://github.com/trending](https://github.com/trending), 从而了解GitHub的最新动态

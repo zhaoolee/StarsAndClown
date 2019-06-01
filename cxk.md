@@ -1,13 +1,13 @@
-![](https://upload-images.jianshu.io/upload_images/3203841-ede932eccd647e64.gif?imageMogr2/auto-orient/strip)
+![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/165e954e08bd4492a041659d60272e4d.gif)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-e4c43b91e102ce45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/56e73f5c443d461f9c0f966483ee1403.png)
 
 
 ## 游戏说明
 - 这是一个网页版CXK打篮球的小游戏，玩法和经典小游戏打砖块类似
 - 方向键左右可以控制CXK左右移动（也可以使用AD键代替）
 - 由于CXK的头一直在左右摇摆, 所以撞击篮球后, 篮球反弹的角度基本不受控制
-> ![](https://upload-images.jianshu.io/upload_images/3203841-107a3baeb49afb17.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/e6c2163ab56f488b83d4bc9dc286a23d.gif)
 
 - CKX的不仅头可以撞球,腿部也是可以的
 - 手机版游戏体验并不好,建议使用PC的Chrome或FireFox开始玩耍~
@@ -16,7 +16,7 @@
 - 通关后,按N可以进入下一关
 - 游戏有多种难度可选择(简单、普通、困难、极限以及非人类),游戏作者不建议大家玩非人类模式
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f8468944b6321119.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/10bed6c0782f43158d641a2ae7331e01.gif)
 
 
 #### 在线游戏地址：

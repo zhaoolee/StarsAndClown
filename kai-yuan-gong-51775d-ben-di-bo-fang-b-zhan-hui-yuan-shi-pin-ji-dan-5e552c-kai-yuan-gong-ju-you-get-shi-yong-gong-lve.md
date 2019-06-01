@@ -1,83 +1,83 @@
 > 通过you-get成功下载最新的 史莱姆第14话，B站会员专属视频和相关弹幕：
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4c60baaed9f667de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c5621a4596a24303.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/6bd3ecb11fbd4d35b61adee2e234a365.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/b644f3b72a9a4522a8c021ccc3744faf.png)
 ---
 > you-get是一个优秀的开源下项目，优点是免费而且功能强大，开放源代码，无功能限制， 以下是具体操作步骤~
 
 ## 安装firefox
 [下载地址](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN&attribution_code=c291cmNlPXd3dy5nb29nbGUuY29tJm1lZGl1bT1yZWZlcnJhbCZjYW1wYWlnbj0obm90IHNldCkmY29udGVudD0obm90IHNldCk.&attribution_sig=5d58068ab4ba5299f75ac9c252cf1dc4d489fe60ad5cb511a02222e81f68e2a5)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-98dc65dd161b799a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/9090ae19917241b3a2676a3cacf0ecbe.png)
 - 选择默认安装位置
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b9b79f0c8e67f875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/dde4adff2ae84ba8bed2ec5632112cf7.png)
 - 完成安装
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a8293a64aa1e20f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/804937234d29453a999745b36e093aed.png)
 - 获取firefox的cookies.sqlite的位置
 ```
 C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.default\cookies.sqlite
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-2446552cdf4d1914.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/11dd2c2f39db47b18228452f7c70cdae.png)
 
 ## 安装python3
 [下载地址](https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-13e05ad85f06c4ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/91b84523f38144979c23878b4fe7ed87.png)
 - 右键， 以管理员身份安装Python
-> ![](https://upload-images.jianshu.io/upload_images/3203841-8a5bc4261893e00f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/2802522660964a36bd1a1753a2139c7c.png)
 - 勾选将Python添加到系统变量，默认方式安装Python
-> ![](https://upload-images.jianshu.io/upload_images/3203841-406d9cf5adf50bb8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/13faf6efa2634da68984cb44d1788b59.png)
 - 安装成功， 关闭窗口
-> ![](https://upload-images.jianshu.io/upload_images/3203841-85d91f6b778ffdc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/9d3a6e48b3ec4693b64af36a4fe498cd.png)
 - 按下快捷键 `Window+R`，输入cmd, 确定， 打开控制台
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f48484bf32e3bf6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/9766cdc294b043f0a573ebd938e53938.png)
 - 在控制台输入`pip3 -V`, 回车，如果能看到输出的版本号， 则安装成功
-> ![](https://upload-images.jianshu.io/upload_images/3203841-35eb86d5a4a3edde.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/0056204014a64dd6a14c689bfbe5efcd.png)
 
 ## 安装you-get
 -  在控制台输入`pip3 install you-get`
 ```
 pip3 install you-get
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-8e237ccc433c87ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/9d56f48883cb499eb16bdb5a5298b05f.png)
 
 - 先下载一个非b站会员即可观看的视频
 ```
 you-get https://www.bilibili.com/bangumi/play/ep250472
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-d61c4811a0f7aeeb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/60337e2e09414fa5bad82a751be9867c.png)
 - 下载完成
-> ![](https://upload-images.jianshu.io/upload_images/3203841-31f7f13baf24c1a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-34000ee0ad3fb3c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/a1f15e65e0dd406886f2b467e10c2d14.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/0da54f1cd8ac454f90d4d6adc9a43a87.png)
 - 下载一个B站会员专享视频
 
 > 视频网站对会员专享视频做了限制， 所以必须先登录，登录后火狐浏览器会自动把会员的cookies写入我们前面提到的`C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.default\cookies.sqlite`文件
 
 > 当我们下载视频时，就可以直接使用`C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.default\cookies.sqlite`作为会员令牌，这样就可以自由下载B站会员专享视频了
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-d107f65f4cd4b14b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/fa3def5341a041a9a9573bdb0ea422c3.png)
 - 在控制台输入以下命令
 ```
 you-get -c C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.default\cookies.sqlite https://www.bilibili.com/bangumi/play/ep250473
 ```
 > 与上一个命令相比， 只是加了一个参数 `-c`, `-c`是cookies的缩写， `-c`后面追加了`cookies.sqlite`的绝对路径
 - B站会员视频下载完成
-> ![](https://upload-images.jianshu.io/upload_images/3203841-836fd40ff0919fca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ec40593fd7fc17a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/1436dec8e4af428aad6804ad29a6afd5.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/12bcde2614ac4893b18cb5a9030deacf.png)
 
 ## 试一下腾讯vip
 ```
 you-get -c C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.default\cookies.sqlite https://v.qq.com/x/cover/p0pcfbdk318ry3m/o0632m7gvb7.html
 ```
->![](https://upload-images.jianshu.io/upload_images/3203841-da54fa23895c99fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+>![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/1584ebd269df4d6aa376b1ff11f5eb7b.png)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f93b196e0f56c9fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/b8127d02801442179206b7c986acc4e6.png)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6dd78073324f2685.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/aef07dd7e85048aa8a600a6a69eb1439.png)
 
 
 ## 播放弹幕文件(2019年1月10号更新)
 - 虽然我们下载了xml的弹幕文件, 但大多数播放器是不支持直接播放xml文件的, 所以我们需要将xml格式的弹幕文件转换为ass格式,使用在线转换工具:https://tiansh.github.io/us-danmaku/bilibili/
-> ![](https://upload-images.jianshu.io/upload_images/3203841-81f1039cb77f6da0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c3ef999801f0660f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-577a554dcb4c008a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/d487541e637245249592a33978ddbc86.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/c50def4b3cbd49e29ea006ac65b62d42.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/ba58ab5bd1b047379d4a2f4a8a8d4846.png)
 
 
 
@@ -85,7 +85,7 @@ you-get -c C:\Users\alanli\AppData\Roaming\Mozilla\Firefox\Profiles\dln2mhmn.def
 - you-get是一个很好用的工具, 对于大多数人，命令行用起来有点不顺手，由于用的人很少， 所以没有被封堵限制
 
 - you-get是开源软件， github地址https://github.com/soimort/you-get， 里面有支持的网站列表
-> ![](https://upload-images.jianshu.io/upload_images/3203841-db6071084b14f461.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/ac0ae5ccef0143b096b860d15668e4e7.png)
 
 - you-get 是一个通用的下载工具，不仅可以通过url下载视频， 还可以通过url下载图片，音乐等静态文件， 另外you-get可以使用关键词下载google最相关的视频，但国内用不了google，所以这个功能也就废了。。。
 

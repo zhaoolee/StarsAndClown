@@ -1,20 +1,20 @@
-> ![](https://upload-images.jianshu.io/upload_images/3203841-eb788bb30af3dfb9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/e84d6d2a5d0b47e9a4b23bddc83a09cb.png)
 
 ## css动画可以做到什么程度?
 
 Github上有一个非常优秀的动画项目, 足足有5万颗星!
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7c95d0c1d007c263.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/bf03f2d967574c178229e498591fd974.png)
 > - 项目地址: https://github.com/daneden/animate.css
 
 
 
 ## 在线效果展示:
 -  https://daneden.github.io/animate.css/
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b0b90255902dd1f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/034e833e90be487f8102e9c72cf38e15.png)
 
 animate整个项目只有一个css文件, 使用方法也非常简单, 只要给相应的元素添加class属性即可
 ## 通过悬浮产生动画的小Demo
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5e55e8501938ce1f.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/967bd6732dca47b981493c449e92d6d7.gif)
 
 
 ```html
