@@ -9,9 +9,9 @@ import shutil
 ## 用户名
 user_name = "zhaoolee";
 ## 仓库名
-github_repository = "StarsAndClown";
+github_repository = "GraphBed";
 ## 存放图片的文件夹名称
-image_folder = "images";
+image_folder = "StarsAndClown";
 
 ## 设置脚本读取md的根目录
 md_dir = "./"
@@ -34,8 +34,6 @@ headers = {
 def get_md_files(md_dir):
     md_files = [];
     for root, dirs, files in sorted(os.walk(md_dir)):
-        print("root==>>:", root);
-        print("dirs===>:", dirs);
         for file in files:
             # 获取.md结尾的文件
             if(file.endswith(".md")):
@@ -58,13 +56,10 @@ def get_download_info(image_url):
 
     tmp_new_image_path_and_name = os.path.join(md_dir, image_folder, file_uuid_name)
 
-
-
     with open(tmp_new_image_path_and_name, "wb+") as f:
         f.write(image_data)
 
     img_type = imghdr.what(tmp_new_image_path_and_name)
-
 
     if(img_type == None):
         img_type = ""
@@ -102,8 +97,12 @@ def download_file_images(md_file):
         for image_url in image_urls:
             # 不爬取svg
             if(image_url.startswith("https://img.shields.io") == False):
-                download_info = get_download_info(image_url)
-                download_info_list.append(download_info)
+                try:
+                    download_info = get_download_info(image_url)
+                    download_info_list.append(download_info)
+                except Exception as e:
+                    print(image_url, "无法爬取, 跳过!")
+                    pass
 
 
         for download_info in download_info_list:
@@ -128,11 +127,6 @@ def main():
     for md_file in md_files:
         # 获取单个md文件所有图片路径并下载本地, 用imghdr判断图片类型, 用uuid生成图片名, 完成图片重命名, 记录图片文件与新图片文件的对应关系
         download_file_images(md_file)
-
-
-
-
-
 
 
 if __name__ == "__main__":

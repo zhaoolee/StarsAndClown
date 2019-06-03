@@ -1,6 +1,6 @@
 > "如果你的程序没有bug,只能说明它不够复杂", 这是一个放弃治疗的仓库, No Code仓库里没有任何代码, 但却有数量不菲的star, 属于Github里面的**名场景**, 推荐游览~
 
-> ![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/fbc7dfd51907426b8fb77bf6f94e4bc7.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/804dcaaa11e047b099d3c439a69cb2ad.png)
 
 ---
 

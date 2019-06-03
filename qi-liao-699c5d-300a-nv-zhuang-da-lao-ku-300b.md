@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/zhaoolee/StarsAndClown/master/images/87417cd4c4dd411d8dd0e1b5806046f4.png)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/87f409e7f36344f8b48c7bbf7edc5df2.png)
 
 “这么可爱，一定是男孩子！”
 
