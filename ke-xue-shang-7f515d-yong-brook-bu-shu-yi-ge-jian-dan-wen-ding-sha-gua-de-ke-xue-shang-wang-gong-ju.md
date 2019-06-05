@@ -2,7 +2,7 @@
 - Brook是一个跨平台的代理/ VPN软件, 软件的目标是保持简单,傻瓜, 无感知.
 - Brook部署和使用比ss更简单, 如果ss某天挂了, 可以用Brook作为替代品.
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/37a4dd08d88b4a22a23eeae7280bbc4b.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e5e30a212910b3b180dfb36f7737325a.png)
 
 
 
@@ -25,7 +25,7 @@ mkdir my_brook
 cd my_brook 
 wget https://github.com/txthinking/brook/releases/download/v20181212/brook
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/6ccb182130c1420185733516c9caf954.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/40cd666f0d6f4659a6d1204de3ebf417.png)
 
 ## 开启服务
 
@@ -37,7 +37,7 @@ chmod 777 brook
 # 以非阻塞方式开启服务(比较推荐)
 ./brook server -l :9999 -p password /dev/null 2>&1 &
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/0c5364618e7b47b99f924427ebb15cff.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/6d3f0590b6bc6057378b08651a4c1a38.png)
 
 ## 用客户端登录
 - 下载客户端
@@ -47,25 +47,25 @@ Mac客户端下载:https://github.com/txthinking/brook/releases/download/v201812
 IOS客户端下载(你可能需要美国区账户): https://itunes.apple.com/us/app/brook-brook-shadowsocks-vpn-proxy/id1216002642
 
 - 填写登录信息
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/5476479392f64fa19a7bc22c3ff7d332.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/9a23eaf7617e4f9de0ca720c17051d3d.png)
 - 右击任务栏图标选择start
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/91cbb86f9b4f408e91ad20c03a78a9ad.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/484d13c57076339c244fbbaffd340174.png)
 
-> ![ios版本登录](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/fbdcb746b2144893be867fcfcd67fd9d.jpeg)
+> ![ios版本登录](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c71a2616019c48ea49a00717f1eb30c0.jpeg)
 
 
 
 
 - 可以愉快的上网了
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/5063b5ef104541caa548b24b01c150d5.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/b9bf6319670f48119c66e836bde2f632.png)
 
-> ![ios查看youtube](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/0fc167df25b14d35ae2c04c88af5f6ff.jpeg)
+> ![ios查看youtube](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/af1d9fa2ffe6c387313363cb1f5bbc41.jpeg)
 
 
 
 > 如果你想让自己的服务更稳定一些, 可以继续往下读
 ## 先结束刚刚创建的进程
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/d3a3d31cd2cd402796da0181b3d01e93.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e1573e1e4a1b45a71c0cea7062e47d33.png)
 
 ## 安装守护进程pm2
 ```
@@ -89,7 +89,7 @@ vi start_brook.sh
 ```
 pm2 start start_brook.sh
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/44fef4281b63424f99286b11401f99a8.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/f684cb2a72178037fe43cab6d73fb2b1.png)
 
 >  大功告成! 现在可以稳定的访问服务了, 即使brook服务端程序挂掉了, pm2也会自动重启brook服务端程序
 
@@ -100,7 +100,7 @@ pm2 start start_brook.sh
 ```
 pm2 list
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/32bff8cc011e48d39cdc0f78a9b87398.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/438a66d75a03aeb22e5c18ab63b99589.png)
 
 - 如何关闭brook服务端进程
 
@@ -108,11 +108,11 @@ pm2 list
 pm2 delete start_brook
 ```
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/c6d200205a9e40708076eabb8a7d225e.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c7e32e9eec7cb666540211c8a398e5e2.png)
 
 ## 愉快的访问谷歌和油管吧~
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/eae822adad724eb78e62487741fbaa1f.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/645d3ecea481461fad6c843be383a7eb.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/748d2beeb2769868d2d99d7b6694890b.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/b90a3da0f8740f34c9500c5ffd1baddc.png)
 
 
 ## 小结:

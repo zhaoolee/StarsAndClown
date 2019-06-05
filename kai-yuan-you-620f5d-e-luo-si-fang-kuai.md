@@ -1,16 +1,16 @@
 ## 俄罗斯方块试玩gif
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/64c2e9df19ec4802a5dc0db4885b8043.gif)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/9c33a44ac8b8ed65a98d6a319dacf940.gif)
 - 打开即玩: [https://chvin.github.io/react-tetris/?lan=zh-cn](https://chvin.github.io/react-tetris/?lan=zh-cn)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/fe71b138f728454a96f8c43681acdc4d.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/8230c587c2b08b58b9d07a0358c20b87.png)
 - 也可以扫码开玩:
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/795d6f21783944af8c68a57f8e1641cd.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/2369512bf8576d797661d677c1908a36.png)
 
 
 ## 实现了数据的持久化
 > 游戏进度的数据可以持久存储到本地浏览器, 即使刷新网页也无需重新开始游戏
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/53a8846a3cdd44bb8ed152ad1272b0f9.gif)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/15400b2602668658f9a61463a85df33a.gif)
 
 
 

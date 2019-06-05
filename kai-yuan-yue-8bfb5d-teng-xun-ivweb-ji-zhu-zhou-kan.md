@@ -1,4 +1,4 @@
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/884aef353fc944898f09b72ffea7bf6a.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c9c347b08c12c749a477e94e8f4f3e77.png)
 > 每周一篇前端技术文, 腾讯出品, 质量很不错, 行文风格严谨不失风趣~
 
 ---

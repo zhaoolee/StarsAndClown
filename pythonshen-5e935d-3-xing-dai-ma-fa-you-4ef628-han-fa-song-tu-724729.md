@@ -21,17 +21,17 @@ yag.send('zhaoolee@gmail.com', '主题:学习使我快乐', contents)
 ```
 
 ##  图片资源在此:
-> ![girl.jpg](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/cd668ff3b5ba4eadbb52af489752c1b8.png)
+> ![girl.jpg](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c1d9acad812207a8ee0820af5bc0af5a.png)
 
-> ![gmail收到的邮件](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/882d801df7cb4f6087ec3df9e68cc45f.png)
-> ![qq邮箱收到的邮件](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/fe744ef937494e38982afd34272109de.png)
+> ![gmail收到的邮件](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4fe05b492081cfa8057da4db8afde52e.png)
+> ![qq邮箱收到的邮件](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/8d0575189eecbbfeeaebe965dd0b6b4d.png)
 
 
 
 > 如何获取163邮箱授权码?
-> ![设置 => POP3/SMTP/IMAP](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/39d3e7c3f2264523b5f041ed1fa78366.png)
-> ![设置授权码](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/41ebe5045ddc4593b57e2f3e1891c497.png)
-> ![弹框提示](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/ead242ecc5c94823a0466aaa549524c2.png)
+> ![设置 => POP3/SMTP/IMAP](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ab5afd3fca29c51bd6cfa7b7d5e94aa1.png)
+> ![设置授权码](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/40f2e1c6659205645e34806b19f8c393.png)
+> ![弹框提示](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/bad755850b0487f3bc75bd4586fa1678.png)
 
 ---
 

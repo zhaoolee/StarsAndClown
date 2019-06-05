@@ -1,4 +1,4 @@
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/4b0acb77c7e5479889697e8686da7bd4.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/a779f3edc33d9b239f3e46741ce9578a.png)
 > 优秀的泛中日韩字体真的很少, 而开源的中日韩字体就更少了, 这套思源黑体是一套非常优秀的字体, 墙裂推荐~
 
 ---

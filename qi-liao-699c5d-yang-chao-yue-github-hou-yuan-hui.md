@@ -1,8 +1,8 @@
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/6a1b6229903c437fa211aa0464392f23.gif)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ccf6269cfb4b3ba1dd84996b5f254d2e.gif)
 
 > - 这是一个集结了**中国锦鲤**程序员粉丝团的仓库, 2019年,我有幸蹭到了**中国锦鲤**第2019份好运气,希望**许愿今年本仓库的✨能破万**, 如果你同时对对**中国锦鲤**和**编程**感兴趣, 可以搜索 **超越杯编程大赛**!
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/31542f7565194ae8a447bed944c7459b.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c5af2aca2be6ed7d142fbe4d403e14a8.png)
 
 
 ---

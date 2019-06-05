@@ -1,5 +1,5 @@
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/d71853edaf8e428982ab334cbfa15e34.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/34f43f4c83aa805e88accfc4c8a7394f.png)
 > - 与GW斗智斗勇的一个库
 
 ---

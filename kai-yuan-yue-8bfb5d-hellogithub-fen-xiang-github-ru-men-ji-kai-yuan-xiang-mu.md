@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/31e46e7955724f16b7b14348f24d46c1.png)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/9262f8bf5f5eaf92a38a679623cb804e.png)
 
 
 作为一个Github老司机, 最好每天逛一逛github的趋势榜   [https://github.com/trending](https://github.com/trending), 从而了解GitHub的最新动态

@@ -1,5 +1,5 @@
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/fa4b3c456af64a35b35e30f9be151297.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/7d92152569ad4269a43f0b0515e44e79.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/0729c9725f412bcf0c92a8e6abcc622e.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/fbb42f3cb6b7a71012965aac13d009d9.png)
 
 阮一峰老师是我见过中文博客写的最好的人之一, 阮一峰老师关于前端方面的博客,写的超棒,没有多余的文字, 每一份配图和示例代码, 都恰到好处~
 

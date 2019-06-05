@@ -1,12 +1,12 @@
 Aria2下载百度网盘的资源
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/bcc0daec42284d008579689029351e8c.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/a8d20dce1d32444ebdecc112b970db37.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/97b93c854c9d82b43d50a280d745decf.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ddf5d738c11c09e7e5e83c65dc046122.png)
 
 ## 获取aria2
 ```
 https://github.com/aria2/aria2/releases/download/release-1.34.0/aria2-1.34.0-win-64bit-build1.zip
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/28dd5ca9f1d94dc7990484f7276815d5.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ff9d6af937c24f3468756201d63e2651.png)
 
 -  新建一个名为aria2的文件夹,将解压获得的aria2.exe加入aria2文件夹, 在文件夹aria2内新建配置文件aria2c.txt, 输入以下内容
 
@@ -71,24 +71,24 @@ force-save=true
 
 - 保存`aria2c.txt`, 然后将`aria2c.txt`重命名为`aria2c.conf`
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/b166f99a425040d68da11afbdf3a11b3.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/0cb415588b15f22c605ca827f84a1b9e.png)
 
 
 - 在aria2内新建文件夹`download`
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/702ce93a4db6419cb03c0f40de04d342.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/a211d2ef3c5e623b84a8f884946321df.png)
 
 - 在aria2内新建文件`aria2c.session`
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/3380c249a4844859a91b5fea840fadab.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ee93cf0187383116779b2893c695f6bb.png)
 
 
 ## 将文件夹aria2放入c盘 根目录
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/763015bc78d4417388a306edb99f3768.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/a5a0456ba83aaec14df9a59e3f2d8294.png)
 
 ## 现在aria2已经安装成功了, 如果我们需要下载史莱姆的图片,则输入以下命令
 ```
 C:\aria2\aria2c.exe http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5bb07da925bad.png
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/0bfddff405dc49f880ec854936034aaa.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/d7ae3094f36471a9dc6dad446af014c3.png)
 
 ----
 > aria2与我们平常用的迅雷不同, aria2没有图形化的界面, 下载任务完成后, 就自动退出了
@@ -98,33 +98,33 @@ C:\aria2\aria2c.exe http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5
 ```
 C:\aria2\aria2c.exe --conf-path=C:\aria2\aria2c.conf
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/db39c869414e4c639b79e04906e3c9c0.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/9d5b149535dd810acaaa36c1a46f2603.png)
 
 ## 为aria2安装图形化界面(安装chrome插件)
 ```
 https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/86a7aa88ad3247889a0d77339a34bd34.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/2b976048c879c78f187b431f24e3dd4d.png)
 
 - 开启插件
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/0fc1c88d9ddc4e6b83ea54b8d79a2bd0.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ba4dbf58f5112200fee1ed82e0b8f0c4.png)
 - 设置插件
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/07fac8fcf69a4e5bb7e6dc0a9b879b92.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e1d0175103e984ddb64aa1b5ca9d9edf.png)
 > http://localhost:6800/jsonrpc
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/de3849e44a6d463aa753d7d502792799.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/58e45d2e000f9d0555a06dc30770fea4.png)
 
 
 
 
 - 开始下载
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/966c324f7b114dbbb1b5b5be565b6c7f.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/8a98d27e95d6459b9106a53384eca7a0.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c533281831a747f80a391f88b46cdfc5.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/28241383bc5ece64f85b28e1505dd170.png)
 
 - 下载完成
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/3f2df7fb96174035b0cef389384743f2.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/ee593f6a77df40fa9164e4efb748f1ba.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/897e253f60aed0c4e46178b3afc350c6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/66d94f90e8b61e9bb437e92025bde5f3.png)
 
 
 ## 下载百度盘的资源
@@ -134,58 +134,58 @@ https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohda
 ```
 https://github.com/acgotaku/BaiduExporter
 ```
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/fff400a8fbaf410cacff9bc66e169944.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c7616f2fcc54228927bcea43e5c24bc1.png)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/245a9881b1044ee0b2747b7cd2835cc7.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/692e7ce11eefce59fd5cd5feb62ac74d.png)
 
 - 改后缀名
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/b590fdcbd1114006abf64097003a09a2.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/211f0a5f132bef624f2c199329c4fa9a.png)
 > 新版的chrome不允许开启外部导入的后缀为crx的插件,但允许导入 后缀为zip的插件
 
 - 导入插件
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/d658009bb659477fbfdc8becfe1cf535.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ece4d2e4d824474e2ac3a86f08cc1b76.png)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/4c48adc1fef34eafbfd988e528fe209e.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e215d8744014785b644a2d569088638a.png)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/9ede0f1ea7ed4c20b747500db4297d38.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/f05dc11bdbe51769b29784a3644583b2.png)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/da051305cdec4734a4eed9a6eb08e45e.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/24a8c33992bbbfcded01b1368ab3b1a1.png)
 
 - 打开东京食尸鬼第四季资源链接:https://pan.baidu.com/s/1WoatWgHlboQoMdsy_tyLwA  密码:7sht
 - 先登录
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/ad3f72d72f514ff5bd488d29bbc6a255.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/940f86c6216dd35cbc35e0b84912fc2e.png)
 - 获取资源
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/852f4af28895412daec217e7decd8994.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/4d65667226cb48e08595ee80838e44f4.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/278aab36fbcf8228cfc344c5ca0d9b08.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/22d1eb6a65d99177fdd6a79dafcfc317.png)
 - 查看下载
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/045340dc07d64231959bad29ad05cfe7.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/466207a51e04a8434624e1a1348d22b9.png)
 
 > 至此已经破解了百度网盘的限速
 ---
 ## 让UI界面更好看一些
 - 扁平风网页UI：http://ariang.mayswind.net/latest
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/07afb4a369db4d969f08e23acea10a08.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/a3509293c2a949bf98b21de9d20233e4.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/d04e99ac32894b92953d39037437c73b.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/de6fc0b1a940ed3a27dd783297acd4f0.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/86c5df0da52017308aa9a4dfa7a0be59.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/b852895a7ff041d7da64dd8409de7ab3.png)
 - 迅雷风网页UI: https://wapznw.gitee.io/aria2desktop/
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/0a0a0bd43b46420187664a0ca7505a24.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ce5e2bf3c4e3921c61f1dd9f08e4bc01.png)
 
 
 
 - 下载资源
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/3ee19aea172a4f8ebb337ca8e3d01ca6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/5cf31b9dd5373d9b87cc21d02ba15d51.png)
 
 > 至此, 你已经可以获取了三套不同的UI, 但不要把开启的命令行窗口关掉, 因为命令行窗口才是本体
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/e177cdc47d3847f6b5f3c987a68aa68a.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/58b22411dc5b40c9114c28261926ef17.png)
 
 ----
 
 如果你对aria2非常满意, 可以设置aria2随系统启动
 
 - 创建文件HideRun.vbs, 在其中写入以下语句
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/4ef6b1c20f6246cab12ce3ccef84ccbe.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4ff0d42a78dffaec15fd75a4a4d1a4d3.png)
 
 ```
 CreateObject("WScript.Shell").Run "C:\aria2\aria2c.exe --conf-path=C:\aria2\aria2c.conf",0
@@ -197,10 +197,10 @@ CreateObject("WScript.Shell").Run "C:\aria2\aria2c.exe --conf-path=C:\aria2\aria
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 ```
 - 重启电脑, 重启完成后, 打开网页http://ariang.mayswind.net/latest 查看下载进度
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/52e3dbe096e24602b1f36192c2e3d2c2.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/29a0bd3a9a16692afb6b9fa96f402271.png)
 
 文中所使用的软件包,我已经整理好了, 可以关注公众号`jikeweikan`, 回复`下载神器`领取
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/StarsAndClown/d729e359952940a68198e7db3ca0aa96.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/d402b1883754d4cf77e570f644e531ef.png)
 
 
 
