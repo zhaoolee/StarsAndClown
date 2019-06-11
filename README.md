@@ -13,6 +13,8 @@
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
 ## 最近更新(2019年6月11日)
+☀️ [017 [弃疗榜]《每日自动给女朋友发微信暖心话。》](https://github.com/sfyc23/EverydayWechat)  | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) 
+
 
 ☀️ [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 
@@ -28,7 +30,8 @@
 
 | 介绍 | stars | link |
 | -- | -- | -- |
-| [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) | ![](https://img.shields.io/github/stars/yadox666/The-Hackers-Hardware-Toolkit) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) |
+| [017 [弃疗榜]《每日自动给女朋友发微信暖心话。》](https://github.com/sfyc23/EverydayWechat) | ![](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg) | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) |
+| [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) | ![](https://img.shields.io/github/stars/yadox666/The-Hackers-Hardware-Toolkit.svg) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) |
 | [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/) | ![](https://img.shields.io/github/stars/zhaoolee/ChineseBQB.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChineseBQB) |
 | [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
 | [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js/blob/master/README.md) | ![](https://img.shields.io/github/stars/theonion/fartscroll.js.svg) | [仓库传送⛩](https://github.com/theonion/fartscroll.js) |
@@ -184,6 +187,10 @@
 
 
 程序员江湖中, 名门大派重视内功, 修炼C++, Java, Python等语言的内功心法, 当然也有潜伏于暗处的刺客, 他们有各种各样的暗器妙法, 让很多看似安全的系统瞬间崩溃, TheHackersHardwareToolkit提供了大量的黑客硬件装备的介绍,并附上了购买链接, 闲暇时候去玩一玩硬件装备,也是不错的选择
+
+
+####  [017 [弃疗榜]《每日自动给女朋友发微信暖心话。》](https://github.com/sfyc23/EverydayWechat) 
+
 
 
 #### [101 [开源工具] 《用Aria2解除百度网盘限速》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
