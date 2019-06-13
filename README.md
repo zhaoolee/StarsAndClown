@@ -13,7 +13,10 @@
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
 ## 最近更新(2019年6月11日)
-☀️ [017 [弃疗榜]《每日自动给女朋友发微信暖心话。》](https://github.com/sfyc23/EverydayWechat)  | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) 
+
+
+
+☀️ [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat)  | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) 
 
 
 ☀️ [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
@@ -30,7 +33,7 @@
 
 | 介绍 | stars | link |
 | -- | -- | -- |
-| [017 [弃疗榜]《每日自动给女朋友发微信暖心话。》](https://github.com/sfyc23/EverydayWechat) | ![](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg) | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) |
+| [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat) | ![](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg) | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) |
 | [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) | ![](https://img.shields.io/github/stars/yadox666/The-Hackers-Hardware-Toolkit.svg) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) |
 | [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/) | ![](https://img.shields.io/github/stars/zhaoolee/ChineseBQB.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChineseBQB) |
 | [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything/blob/master/README.md) | ![](https://img.shields.io/github/stars/illacceptanything/illacceptanything.svg) | [仓库传送⛩](https://github.com/illacceptanything/illacceptanything) |
@@ -81,48 +84,89 @@
 | [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | ![](https://img.shields.io/github/stars/kasuganosoras/cxk-ball.svg) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball) |
 
 
-#### [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/527d2d9b7673edb66c31a4b4a6af69a2.png)
-> 以前我在B站只能见到**个位数**的女装大佬, 现在我在github看到了女装大佬集群! 在线观看地址: [https://drsrel.github.io/photos](https://drsrel.github.io/photos)
 
 
-#### [002 [弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4ad01c615c709e8ba529d633973afc76.gif)
-> 这是一个集结了**中国锦鲤**程序员粉丝团的仓库, 2019年,我有幸蹭到了**中国锦鲤**第2019份好运气,希望**许愿今年本仓库的✨能破万**, 如果你同时对对**中国锦鲤**和**编程**感兴趣, 可以搜索 **超越杯编程大赛**!
 
 
-#### [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html)
-
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e6400fe4de0311233f4b82f9fe467ae6.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/941b6620926691cf724b91002e391d14.jpeg)
-> **你将永远不会忘记灭霸!**, 运行仓库内的`Thanos.sh`脚本, 你电脑中的文件将会被随机删除一半! 哈哈这个我没敢试, 但我感觉这个脚本的想法, 很"弃疗", 所以就收录了, 我旁边一个小伙伴 还写了一个**俄罗斯转盘 删库** `[ $[ $RANDOM % 6 ] == 0 ] && rm -rf /* || echo "Clicks"`,据说也非常带劲! 对于这些放弃治疗的想法,看看就好~
-> **问:** 比删除计算机全部文件还要刺激的事是什么? **答**: 随机删除计算机内一半的文件
 
 
-#### [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/5601faefd7fa601ebec31fdb093c655e.png)
-> "如果你的程序没有bug, 只能说明它不够复杂", 这是一个放弃治疗的仓库! No Code仓库里没有任何代码, 但却有数量不菲的star, 属于Github里面的**名场面**, 推荐游览~
 
 
-#### [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c49d7bbc17bd4cc05dabc17d7ec552c6.png)
-> 用过之后, 你会欲罢不能, 回不去了, 回不去了, 哈哈, ~ (慢慢的你会发现, The**Fuck**是也是属于全人类的)
 
 
-#### [006 [弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html)
->![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/a9ddc328a86c21df7cb4c3b10e200c58.gif)
-> 学习强国是个好东西, 但变成强制性的每日至少 30+的积分, 就完全变了味道, 有热心的程序员开发了一个自动刷分的软件,软件横跨Windows, macOS, Linux 三大平台, 下载解压,无需安装, 点开即用,从github仓库下载软件运行后, 软件会模拟鼠标键盘行为,刷取时长...
-
-#### [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c4a934ca7e4ca5a910401523492d27a8.png)
-> 与GFW斗智斗勇的一个库...
 
 
-#### [008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/2d0aa9c8b2c37a3220033d28de35f8d9.png)
+#### [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat)
 
-杭州房产知识扫盲,买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
+![](https://user-images.githubusercontent.com/15868458/59395860-a13ae080-8db8-11e9-9e19-b741e78858bf.gif)
+
+![](https://user-images.githubusercontent.com/15868458/59395869-b3b51a00-8db8-11e9-93c6-772d62bf991c.PNG)
+
+这是个脚本可以每天定时发送暖心话给女友, 更骚的是,还可以群发! 妥妥的《女友后台管理系统》～使用这个脚本的门槛比较高，首先你得有个女朋友[手动滑稽]
+
+
+
+
+
+#### [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf)
+
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/918d801fabf4c91a2c99ffb182860bd1.jpeg)
+
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4a03a565b149a0e76249397515325bcc.png)
+
+
+程序员江湖中, 名门大派重视内功, 修炼C++, Java, Python等语言的内功心法, 当然也有潜伏于暗处的刺客, 他们有各种各样的暗器妙法, 让很多看似安全的系统瞬间崩溃, TheHackersHardwareToolkit提供了大量的黑客硬件装备的介绍,并附上了购买链接, 闲暇时候去玩一玩硬件装备,也是不错的选择
+
+#### [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/8c1c0f137e1a6aac256d035121c41f41.png)
+
+中国可以通过表情包, 实现文化输出, 但如何把表情包送出国门呢?
+用Github吧! 在Github建立一个表情包仓库, 或许可以让 它国人民 感受一下中国表情包的乐趣
+
+
+
+
+
+
+
+
+
+
+#### [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/0d8f7e5c9e249e093820af1bf09e6a7c.png)
+
+作者想做一个很酷的仓库,但又不知道做什么是"酷"的, 所以, 就开了一个, 可以收录任何内容的仓库,结果引来大量程序员的贡献, 但贡献的内容几乎都是表情包~
+
+#### [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/267897a7d637b61a2d89d3dd18e62d19.png)
+
+人可以放屁,引入这个库,网页也可以~
+
+#### [012 [弃疗榜]《调侃特朗普行事风格的脚本》](https://github.com/samshadwell/TrumpScript)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ec13e9532f5bce900395972c892aafbc.png)
+
+脚本特色(部分)
+- 没有浮点类型，因为美国人从来不做事做到一半。
+- 所有的数字必须严格大于一百万，小事对于我们是不值一提的。
+- 不允许任何外部库的引入，所有代码必须是纯正的“美国制造”。
+
+
+#### [011 [弃疗榜]《剁手指南, 收集&推荐优秀的 Apps/硬件/技巧/周边等》](https://github.com/hzlzh/Best-App)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c3e230ee23a3f9f8e666f769b5d0b950.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e2811ec9e7fbda7212c2a6ee7b70bf55.png)
+
+如果你是一个"苹果粉", 那你的钱包要小心了,项目收录了与apple产品相关的, 付费软件, 硬件配件,订阅服务, 以及周边, 作者创建仓库的初衷: **经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的， 于是创建了 BestApp 项目，旨在让推荐变得有章可循**
+
+
+#### [010 [弃疗榜]《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/9421bf9453907e78667a910330a26537.png)
+
+这个仓库非常适合喜欢折腾的人, 通过这个仓库的学习, 你将会了解到什么样的硬件适合安装一个黑苹果，并且在这个过程中你可以学习到很多计算机硬件的特性，例如 CPU、存储器和显卡等。你也可以了解到关于计算机启动和引导的一些知识，甚至还可以帮助编译同样是开源项目的一些计算机引导系统。如果你学的很不错,甚至可以开一个淘宝店,帮人装黑苹果,按照淘宝现在的行情,一台大致可以收入100RMB-200RMB的样子
 
 
 
@@ -134,62 +178,67 @@
 可能是让你受益匪浅的英语进阶指南, 学习，难道不是人生最棒的乐趣么？
 
 
-#### [010 [弃疗榜]《黑苹果学院, 教你安装黑苹果》](https://github.com/huangyz0918/Hackintosh-Installer-University)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/9421bf9453907e78667a910330a26537.png)
+#### [008 [弃疗榜]《超级详细的杭州买房购房知识》](https://github.com/houshanren/hangzhou_house_knowledge)
 
-这个仓库非常适合喜欢折腾的人, 通过这个仓库的学习, 你将会了解到什么样的硬件适合安装一个黑苹果，并且在这个过程中你可以学习到很多计算机硬件的特性，例如 CPU、存储器和显卡等。你也可以了解到关于计算机启动和引导的一些知识，甚至还可以帮助编译同样是开源项目的一些计算机引导系统。如果你学的很不错,甚至可以开一个淘宝店,帮人装黑苹果,按照淘宝现在的行情,一台大致可以收入100RMB-200RMB的样子
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/2d0aa9c8b2c37a3220033d28de35f8d9.png)
 
-
-
-#### [011 [弃疗榜]《剁手指南, 收集&推荐优秀的 Apps/硬件/技巧/周边等》](https://github.com/hzlzh/Best-App)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c3e230ee23a3f9f8e666f769b5d0b950.png)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e2811ec9e7fbda7212c2a6ee7b70bf55.png)
-
-如果你是一个"苹果粉", 那你的钱包要小心了,项目收录了与apple产品相关的, 付费软件, 硬件配件,订阅服务, 以及周边, 作者创建仓库的初衷: **经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的， 于是创建了 BestApp 项目，旨在让推荐变得有章可循**
+杭州房产知识扫盲,买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
 
 
-#### [012 [弃疗榜]《调侃特朗普行事风格的脚本》](https://github.com/samshadwell/TrumpScript)
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ec13e9532f5bce900395972c892aafbc.png)
 
-脚本特色(部分)
-- 没有浮点类型，因为美国人从来不做事做到一半。
-- 所有的数字必须严格大于一百万，小事对于我们是不值一提的。
-- 不允许任何外部库的引入，所有代码必须是纯正的“美国制造”。
+#### [007 [弃疗榜] 《翻墙方法集合》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-fan-qiang-fang-fa-ji-he.html)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c4a934ca7e4ca5a910401523492d27a8.png)
+> 与GFW斗智斗勇的一个库...
 
 
-#### [013 [弃疗榜]《让网页可以放屁(闻不到味道,差评!)》](https://github.com/theonion/fartscroll.js)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/267897a7d637b61a2d89d3dd18e62d19.png)
-
-人可以放屁,引入这个库,网页也可以~
-
-
-#### [014 [弃疗榜]《我全都要! (已被表情包攻陷)》](https://github.com/illacceptanything/illacceptanything)
-
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/0d8f7e5c9e249e093820af1bf09e6a7c.png)
-
-作者想做一个很酷的仓库,但又不知道做什么是"酷"的, 所以, 就开了一个, 可以收录任何内容的仓库,结果引来大量程序员的贡献, 但贡献的内容几乎都是表情包~
+#### [006 [弃疗榜] 《学习强国刷时长》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-xue-xi-qiang-guo-shua-shi-chang.html)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/a9ddc328a86c21df7cb4c3b10e200c58.gif)
+> 学习强国是个好东西, 但变成强制性的每日至少 30+的积分, 就完全变了味道, 有热心的程序员开发了一个自动刷分的软件,软件横跨Windows, macOS, Linux 三大平台, 下载解压,无需安装, 点开即用,从github仓库下载软件运行后, 软件会模拟鼠标键盘行为,刷取时长...
 
 
-#### [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/)
-
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/8c1c0f137e1a6aac256d035121c41f41.png)
-
-中国可以通过表情包, 实现文化输出, 但如何把表情包送出国门呢?
-用Github吧! 在Github建立一个表情包仓库, 或许可以让 它国人民 感受一下中国表情包的乐趣
-
-#### [016 [弃疗榜]《黑客硬件装备购买指南》]（https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf）
-
-![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/918d801fabf4c91a2c99ffb182860bd1.jpeg)
-
-![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4a03a565b149a0e76249397515325bcc.png)
 
 
-程序员江湖中, 名门大派重视内功, 修炼C++, Java, Python等语言的内功心法, 当然也有潜伏于暗处的刺客, 他们有各种各样的暗器妙法, 让很多看似安全的系统瞬间崩溃, TheHackersHardwareToolkit提供了大量的黑客硬件装备的介绍,并附上了购买链接, 闲暇时候去玩一玩硬件装备,也是不错的选择
+#### [005 [弃疗榜] 《"国骂"命令行神器 thefuke!》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d22-guo-9a8222-ming-ling-xing-shen-qi-thefuke.html)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c49d7bbc17bd4cc05dabc17d7ec552c6.png)
+> 用过之后, 你会欲罢不能, 回不去了, 回不去了, 哈哈, ~ (慢慢的你会发现, The**Fuck**是也是属于全人类的)
 
 
-####  [017 [弃疗榜]《每日自动给女朋友发微信暖心话。》](https://github.com/sfyc23/EverydayWechat) 
+#### [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/5601faefd7fa601ebec31fdb093c655e.png)
+> "如果你的程序没有bug, 只能说明它不够复杂", 这是一个放弃治疗的仓库! No Code仓库里没有任何代码, 但却有数量不菲的star, 属于Github里面的**名场面**, 推荐游览~
+
+#### [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/e6400fe4de0311233f4b82f9fe467ae6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/941b6620926691cf724b91002e391d14.jpeg)
+> **你将永远不会忘记灭霸!**, 运行仓库内的`Thanos.sh`脚本, 你电脑中的文件将会被随机删除一半! 哈哈这个我没敢试, 但我感觉这个脚本的想法, 很"弃疗", 所以就收录了, 我旁边一个小伙伴 还写了一个**俄罗斯转盘 删库** `[ $[ $RANDOM % 6 ] == 0 ] && rm -rf /* || echo "Clicks"`,据说也非常带劲! 对于这些放弃治疗的想法,看看就好~
+> **问:** 比删除计算机全部文件还要刺激的事是什么? **答**: 随机删除计算机内一半的文件
+
+
+
+#### [002 [弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4ad01c615c709e8ba529d633973afc76.gif)
+> 这是一个集结了**中国锦鲤**程序员粉丝团的仓库, 2019年,我有幸蹭到了**中国锦鲤**第2019份好运气,希望**许愿今年本仓库的✨能破万**, 如果你同时对对**中国锦鲤**和**编程**感兴趣, 可以搜索 **超越杯编程大赛**!
+
+
+
+
+#### [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/527d2d9b7673edb66c31a4b4a6af69a2.png)
+> 以前我在B站只能见到**个位数**的女装大佬, 现在我在github看到了女装大佬集群! 在线观看地址: [https://drsrel.github.io/photos](https://drsrel.github.io/photos)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
