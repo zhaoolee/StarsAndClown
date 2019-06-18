@@ -12,7 +12,10 @@
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/6279c4323e2a83a651fc823f3e9a4dc1.png)
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
-## 最近更新(2019年6月11日)
+## 最近更新(2019年6月18日)
+
+☀️ [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies) | [仓库传送⛩](https://github.com/thieman/github-selfies) 
+
 
 ☀️ [110 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)  | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) 
 
@@ -34,6 +37,7 @@
 
 | 介绍 | stars | link |
 | -- | -- | -- |
+| [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies) | ![](https://img.shields.io/github/stars/thieman/github-selfies.svg) | [仓库传送⛩](https://github.com/thieman/github-selfies) |
 | [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat) | ![](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg) | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) |
 | [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) | ![](https://img.shields.io/github/stars/yadox666/The-Hackers-Hardware-Toolkit.svg) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) |
 | [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/) | ![](https://img.shields.io/github/stars/zhaoolee/ChineseBQB.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChineseBQB) |
@@ -85,7 +89,12 @@
 | [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | ![](https://img.shields.io/github/stars/WarpPrism/AutoPiano.svg) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
 | [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | ![](https://img.shields.io/github/stars/kasuganosoras/cxk-ball.svg) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball) |
 
+#### [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies)
 
+
+![ok](https://user-images.githubusercontent.com/15868458/59645268-8d6df080-91a3-11e9-8e94-492ed817c103.gif)
+
+在全球最大的同性交友网站晒自拍, 是一件多么值得自豪的事情! 你的自拍,将收获大量点赞, 快来试试吧! (我怀疑你怀疑我开车, 但你没有证据![手动滑稽])
 
 
 #### [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat)
