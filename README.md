@@ -14,6 +14,7 @@
 
 ## 最近更新(2019年6月11日)
 
+☀️ [110 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)  | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) 
 
 
 ☀️ [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat)  | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) 
@@ -25,7 +26,7 @@
 
 ☀️ [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) | [仓库传送⛩](https://github.com/agalwood/Motrix)
 
-☀️ [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/) | [仓库传送⛩](https://github.com/webtorrent/webtorrent)
+
 
 
 ## 弃疗榜(你在github见过哪些沙雕库?)
@@ -65,6 +66,7 @@
 | [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)| ![](https://img.shields.io/github/stars/Awesome-Windows/Awesome.svg) | [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) |
 | [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md)| ![](https://img.shields.io/github/stars/agalwood/Motrix.svg) | [仓库传送⛩](https://github.com/agalwood/Motrix) |
 | [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/)| ![](https://img.shields.io/github/stars/webtorrent/webtorrent.svg) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) |
+| [110 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)| ![](https://img.shields.io/github/stars/wb14123/seq2seq-couplet.svg) | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) |
 | [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | ![](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions) |
 | [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | ![](https://img.shields.io/github/stars/iv-web/weekly.svg) | [仓库传送⛩](https://github.com/iv-web/weekly) |
 | [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | ![](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes) |
@@ -288,6 +290,11 @@ Motrix是一款全能的开源下载工具, 支持http, Ftp, Bt, 磁力链接, �
 
 一款开源免费的种子播放器, 支持边下边播, 让你在线无等待播放种子电影~
 
+#### [110 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)  | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) 
+
+![image](https://user-images.githubusercontent.com/15868458/59645037-4a5f4d80-91a2-11e9-9532-d7c71e692845.png)
+
+人工智能(深度学习)对对联, 这个仓库属于能带来快乐的那种~
 
 
 #### [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html)
