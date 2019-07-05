@@ -12,7 +12,13 @@
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/6279c4323e2a83a651fc823f3e9a4dc1.png)
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
-## 最近更新(2019年6月18日)
+## 最近更新(2019年7月5日)
+
+☀️ [019 [弃疗榜]《3行代码 为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/) | [仓库传送⛩](https://github.com/stevenjoezhang/live2d-widget) 
+
+
+
+
 
 ☀️ [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies) | [仓库传送⛩](https://github.com/thieman/github-selfies) 
 
@@ -37,6 +43,7 @@
 
 | 介绍 | stars | link |
 | -- | -- | -- |
+| [019 [弃疗榜]《3行代码 为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/) | ![](https://img.shields.io/github/stars/stevenjoezhang/live2d-widget.svg) | [仓库传送⛩](https://github.com/thieman/github-selfies) |
 | [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies) | ![](https://img.shields.io/github/stars/thieman/github-selfies.svg) | [仓库传送⛩](https://github.com/thieman/github-selfies) |
 | [017 [弃疗榜]《每日自动给女朋友发微信暖心话》](https://github.com/sfyc23/EverydayWechat) | ![](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg) | [仓库传送⛩](https://github.com/sfyc23/EverydayWechat) |
 | [016 [弃疗榜]《黑客硬件装备购买指南》](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) | ![](https://img.shields.io/github/stars/yadox666/The-Hackers-Hardware-Toolkit.svg) | [仓库传送⛩](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) |
@@ -88,6 +95,25 @@
 | [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html) | ![](https://img.shields.io/github/stars/chvin/react-tetris.svg) | [仓库传送⛩](https://github.com/chvin/react-tetris) |
 | [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | ![](https://img.shields.io/github/stars/WarpPrism/AutoPiano.svg) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
 | [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | ![](https://img.shields.io/github/stars/kasuganosoras/cxk-ball.svg) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball) |
+
+
+#### [019 [弃疗榜]《3行代码 为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/ed82c702b6cde5a3aa0768cb2ccfb7a6.gif)
+
+看板娘一词源自日语“看板娘(かんばんむすめ)”。其中的“看板”指的是店面招牌，或者是为了宣传、打广告而制作的宣传牌。“看板娘”也就是店面的招牌姑娘，亦即能够提升店面人气和顾客流量的女服务生、女店员等。也就是说，看板娘本身就是一块“活看板”，其本身的魅力就能够起到宣传、拉人气的作用。英语又称之为“Poster Girl”。
+
+为网站添加萌萌哒看板娘, 可以让网站更有吸引力
+
+看板娘的很多语言都是通过配置文件定制的, 所以看板娘的秉性全靠主人的本事, 我改了一下配置文件, 感觉很欢乐, 甚至玩出了人工智能的感觉~
+
+
+
+
+
+
+
 
 #### [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies)
 
