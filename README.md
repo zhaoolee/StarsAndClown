@@ -12,13 +12,10 @@
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/6279c4323e2a83a651fc823f3e9a4dc1.png)
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
-## 最近更新(2019年7月5日)
+## 最近更新(2019年7月6日)
+
 
 ☀️ [019 [弃疗榜]《3行代码 为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/) | [仓库传送⛩](https://github.com/stevenjoezhang/live2d-widget) 
-
-
-
-
 
 ☀️ [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies) | [仓库传送⛩](https://github.com/thieman/github-selfies) 
 
@@ -33,7 +30,7 @@
 
 ☀️ [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)| [仓库传送⛩](https://github.com/Awesome-Windows/Awesome)
 
-☀️ [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) | [仓库传送⛩](https://github.com/agalwood/Motrix)
+☀️ [108 [开源工具] 超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) | [仓库传送⛩](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
 
 
@@ -75,9 +72,10 @@
 | [105 [开源工具]SwitchHosts!更方便地切换hosts](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.html) | ![](https://img.shields.io/github/stars/oldj/SwitchHosts.svg) | [仓库传送⛩](https://github.com/oldj/SwitchHosts) |
 | [106 [开源工具] Mac生产力工具链推荐](https://github.com/Louiszhai/tool/blob/master/README.md)| ![](https://img.shields.io/github/stars/Louiszhai/tool.svg) | [仓库传送⛩](https://github.com/Louiszhai/tool) |
 | [107 [开源工具] Windows优质&精选应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)| ![](https://img.shields.io/github/stars/Awesome-Windows/Awesome.svg) | [仓库传送⛩](https://github.com/Awesome-Windows/Awesome) |
-| [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md)| ![](https://img.shields.io/github/stars/agalwood/Motrix.svg) | [仓库传送⛩](https://github.com/agalwood/Motrix) |
-| [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/)| ![](https://img.shields.io/github/stars/webtorrent/webtorrent.svg) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) |
-| [110 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)| ![](https://img.shields.io/github/stars/wb14123/seq2seq-couplet.svg) | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) |
+| [108 [开源工具] 超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)| ![](https://img.shields.io/github/stars/luong-komorebi/Awesome-Linux-Software.svg) | [仓库传送⛩](https://github.com/luong-komorebi/Awesome-Linux-Software) |
+| [109 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md)| ![](https://img.shields.io/github/stars/agalwood/Motrix.svg) | [仓库传送⛩](https://github.com/agalwood/Motrix) |
+| [110 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/)| ![](https://img.shields.io/github/stars/webtorrent/webtorrent.svg) | [仓库传送⛩](https://github.com/webtorrent/webtorrent) |
+| [111 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)| ![](https://img.shields.io/github/stars/wb14123/seq2seq-couplet.svg) | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) |
 | [201 [开源阅读] 《深度学习500问》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html) | ![](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg) | [仓库传送⛩](https://github.com/scutan90/DeepLearning-500-questions) |
 | [202 [开源阅读] 《腾讯IVWEB技术周刊》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html) | ![](https://img.shields.io/github/stars/iv-web/weekly.svg) | [仓库传送⛩](https://github.com/iv-web/weekly) |
 | [203 [开源阅读] 《Chrome插件英雄榜》](https://zhaoolee.gitbooks.io/chrome/) | ![](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg) | [仓库传送⛩](https://github.com/zhaoolee/ChromeAppHeroes) |
@@ -309,21 +307,30 @@
 
 这是一个关于Windows的软件推荐仓库, 内含大量开源软件推荐,喜欢尝试新软件的小伙伴, 可以好好研究下这个仓库, 内含中文版本哦~
 
-#### [108 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) [仓库传送⛩](https://github.com/agalwood/Motrix)
+
+#### [108 [开源工具] 超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) | [仓库传送⛩](https://github.com/luong-komorebi/Awesome-Linux-Software)
+
+> ![image](https://user-images.githubusercontent.com/15868458/60751283-7d4c7280-9fe5-11e9-8060-fa14d43fc2c8.png)
+
+这是一个关于Linux的软件推荐仓库, 几乎全是开源软件, 可以挖到很多宝,[中文版介绍链接](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)
+
+
+
+#### [109 [开源工具] 一款全能的下载工具](https://github.com/agalwood/Motrix/blob/master/README-CN.md) [仓库传送⛩](https://github.com/agalwood/Motrix)
 
 ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/d0af3226eda482ab4b0567f430b0de40.png)
 
 Motrix是一款全能的开源下载工具, 支持http, Ftp, Bt, 磁力链接, 百度网盘等资源
 
 
-#### [109 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/) | [仓库传送⛩](https://github.com/webtorrent/webtorrent)
+#### [110 [开源工具] 一款开源种子播放器(支持边下边播)](https://webtorrent.io/desktop/) | [仓库传送⛩](https://github.com/webtorrent/webtorrent)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/091c744c3eba3c9ad3cf553b6b7be6c8.png)
 
 
 一款开源免费的种子播放器, 支持边下边播, 让你在线无等待播放种子电影~
 
-#### [110 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)  | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) 
+#### [111 [开源工具] 人工智能对对联](https://ai.binwang.me/couplet/)  | [仓库传送⛩](https://github.com/wb14123/seq2seq-couplet) 
 
 ![image](https://user-images.githubusercontent.com/15868458/59645037-4a5f4d80-91a2-11e9-9532-d7c71e692845.png)
 
