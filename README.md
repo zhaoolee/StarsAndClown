@@ -140,7 +140,7 @@
 
 程序员江湖中, 名门大派重视内功, 修炼C++, Java, Python等语言的内功心法, 当然也有潜伏于暗处的刺客, 他们有各种各样的暗器妙法, 让很多看似安全的系统瞬间崩溃, TheHackersHardwareToolkit提供了大量的黑客硬件装备的介绍,并附上了购买链接, 闲暇时候去玩一玩硬件装备,也是不错的选择
 
-#### [015 [弃疗榜]《中国人聊天表情包集合》](https://zhaoolee.github.io/ChineseBQB/)
+#### [015 [弃疗榜]《中国人的表情包》](https://zhaoolee.github.io/ChineseBQB/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/8c1c0f137e1a6aac256d035121c41f41.png)
 
