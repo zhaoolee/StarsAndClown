@@ -12,10 +12,11 @@
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/6279c4323e2a83a651fc823f3e9a4dc1.png)
 > 上图出处是桐姥爷在释放星爆气流斩,被我魔改了一下, 就成了项目的宣传图~
 
-## 最近更新(2019年7月6日)
+## 最近更新(2019年7月12日)
 
+☀️ [801 [开源资源] 中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) | [仓库传送⛩](https://github.com/chinese-poetry/chinese-poetry) 
 
-☀️ [019 [弃疗榜]《3行代码 为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/) | [仓库传送⛩](https://github.com/stevenjoezhang/live2d-widget) 
+☀️ [019 [弃疗榜]《为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/) | [仓库传送⛩](https://github.com/stevenjoezhang/live2d-widget) 
 
 ☀️ [018 [弃疗榜]《在Github晒自拍》](https://github.com/thieman/github-selfies) | [仓库传送⛩](https://github.com/thieman/github-selfies) 
 
@@ -93,6 +94,7 @@
 | [701 [开源游戏]《俄罗斯方块》](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-e-luo-si-fang-kuai.html) | ![](https://img.shields.io/github/stars/chvin/react-tetris.svg) | [仓库传送⛩](https://github.com/chvin/react-tetris) |
 | [702 [开源游戏] 打字速度慢?玩一玩自由钢琴吧~](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.html) | ![](https://img.shields.io/github/stars/WarpPrism/AutoPiano.svg) | [仓库传送⛩](https://github.com/WarpPrism/AutoPiano)
 | [703 [开源游戏] CXK, 出来打球](https://zhaoolee.gitbooks.io/starsandclown/content/cxk.html) | ![](https://img.shields.io/github/stars/kasuganosoras/cxk-ball.svg) | [仓库传送⛩](https://github.com/kasuganosoras/cxk-ball) |
+| [801 [开源资源] 中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) | ![](https://img.shields.io/github/stars/chinese-poetry/chinese-poetry.svg) | [仓库传送⛩](https://github.com/chinese-poetry/chinese-poetry) |
 
 
 #### [019 [弃疗榜]《3行代码 为网站添加萌萌哒看板娘》](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/)
@@ -427,6 +429,19 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 - 这是一个网页版CXK打篮球的小游戏，玩法和经典小游戏打砖块类似
 - 方向键左右可以控制CXK左右移动（也可以使用AD键代替）
 - 由于CXK的头一直在左右摇摆, 所以撞击篮球后, 篮球反弹的角度基本不受控制
+
+
+
+#### [801 [开源资源] 中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
+
+
+![image](https://user-images.githubusercontent.com/15868458/61094697-c3408500-a482-11e9-9947-9f3c18aec35c.png)
+
+- 最全的中华古典文集数据库, 包含5.5万首唐诗、26万首宋诗和2.1万首宋词. 唐宋两朝近1.4万古诗人, 和两宋时期1.5K词人.
+- 古诗是中华民族乃至全世界的瑰宝, 我们应该传承下去, 虽然有古典文集, 但大多数人并没有拥有这些书籍. 从某种意义上来说, 这些庞大的文集离我们是有一定距离的。而电子版方便拷贝, 所以此开源数据库诞生了. 你可以用此数据做任何有益的事情.
+
+
+
 
 ---
 
