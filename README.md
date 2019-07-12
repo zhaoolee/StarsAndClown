@@ -439,3 +439,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 - StarsAndClown, Write a letter of recommendation for Github's outstanding creative projects, and let Github's outstanding projects benefit mankind~, If you like this project, I hope you can add a star 🌟 to this project.
 
 
+
+## 欢迎赞助本项目(微信赞赏)
+
+- 收到的赞助, 未来将用于购买服务器, 存放本项目的资源
+
+- 通过赞赏请作者喝杯咖啡,也是可以的~
+
+- 赞助越多,内容更新的越快越好[手动滑稽]
+
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000002/ba5b30723b85810c5a8a42be8ead4161.jpeg)
