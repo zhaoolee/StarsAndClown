@@ -59,7 +59,7 @@
 | [004 [弃疗榜] 《无Bug仓库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-wu-bug-cang-ku.html) | ![](https://img.shields.io/github/stars/kelseyhightower/nocode.svg) | [仓库传送⛩](https://github.com/kelseyhightower/nocode)
 | [003 [弃疗榜] 《灭霸响指脚本》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-mie-ba-xiang-zhi-jiao-ben.html) | ![](https://img.shields.io/github/stars/hotvulcan/Thanos.sh.svg) | [仓库传送⛩](https://github.com/hotvulcan/Thanos.sh) |
 | [002 [弃疗榜] 《杨超越github后援会》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-yang-chao-yue-github-hou-yuan-hui.html) | ![](https://img.shields.io/github/stars/ccyyycy/ycy.svg) | [仓库传送⛩](https://github.com/ccyyycy/ycy) |
-| [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | ![](https://img.shields.io/github/stars/daneden/animate.css.svg) | [仓库传送⛩](https://github.com/daneden/animate.css)|
+| [001 [弃疗榜] 《女装大佬库》](https://zhaoolee.gitbooks.io/starsandclown/content/qi-liao-699c5d-300a-nv-zhuang-da-lao-ku-300b.html) | ![](https://img.shields.io/github/stars/komeiji-satori/Dress.svg) | [仓库传送⛩](https://github.com/komeiji-satori/Dress)|
 
 ## 星聚榜(这是我见过最好的库!)
 
