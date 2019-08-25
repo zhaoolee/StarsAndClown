@@ -22,7 +22,7 @@
 * [[开源阅读] 腾讯IVWEB技术周刊](/page/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.md)
 * [[开源阅读] 阮一峰技术分享周刊,每周五更新](/page/kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.md)
 * [[开源阅读] HelloGithub, 分享GitHub入门级开源项目](/page/kai-yuan-yue-8bfb5d-hellogithub-fen-xiang-github-ru-men-ji-kai-yuan-xiang-mu.md)
-* [[开源游戏]俄罗斯方块](kai-yuan-you-620f5d-e-luo-si-fang-kuai.md)
+* [[开源游戏]俄罗斯方块](/page/kai-yuan-you-620f5d-e-luo-si-fang-kuai.md)
 * [[开源工具]SwitchHosts!更方便地切换hosts](/page/kai-yuan-gong-51775d-switchhosts-geng-fang-bian-di-qie-huan-hosts.md)
 * [[设计资源] PPT缺少图标素材? 试试Font Awasome吧!](/page/she-ji-zi-6e905d-ppt-que-shao-tu-biao-su-67503f-shi-shi-font-awasome-542721.md)
 * [[开源游戏] 打字速度慢?玩一玩自由钢琴吧~](/page/kai-yuan-you-620f5d-da-zi-su-du-61623f-wan-yi-wan-zi-you-gang-qin-54277e.md)
