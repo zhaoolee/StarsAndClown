@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>[Python派] 3行代码发邮件(含发送图片) · StarsAndClown</title>
+        <title>[开源阅读] 腾讯IVWEB技术周刊 · StarsAndClown</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -66,10 +66,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html" />
+    <link rel="next" href="kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.html" />
     
     
-    <link rel="prev" href="qian-duan-kai-53d15d-markdown-zhuan-html.html" />
+    <link rel="prev" href="kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html" />
     
 
     <style>
@@ -317,7 +317,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.17" data-path="pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html">
+        <li class="chapter " data-level="1.17" data-path="pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html">
             
                 <a href="pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.html">
             
@@ -369,7 +369,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.21" data-path="kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html">
+        <li class="chapter active" data-level="1.21" data-path="kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html">
             
                 <a href="kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.html">
             
@@ -503,7 +503,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >[Python派] 3行代码发邮件(含发送图片)</a>
+        <a href=".." >[开源阅读] 腾讯IVWEB技术周刊</a>
     </h1>
 </div>
 
@@ -519,37 +519,11 @@
                                 <section class="normal markdown-section">
                                 
                                 <blockquote>
-<p>&#x6700;&#x8FD1;&#x6709;&#x53D1;&#x90AE;&#x4EF6;&#x7684;&#x9700;&#x6C42;
-&#x53D1;&#x73B0;&#x4E86;&#x4E00;&#x4E2A;python&#x53D1;&#x90AE;&#x4EF6;&#x7684;&#x5F00;&#x6E90;&#x9879;&#x76EE;<a href="https://github.com/kootenpv/yagmail" target="_blank">yagmail</a>, 3&#x884C;&#x4EE3;&#x7801;&#x641E;&#x5B9A;&#x90AE;&#x4EF6;, &#x5F88;&#x8D5E;</p>
-</blockquote>
-<h2 id="&#x4EE5;&#x4E0B;&#x4E09;&#x884C;&#x4EE3;&#x7801;&#x5B9E;&#x73B0;&#x7684;&#x529F;&#x80FD;">&#x4EE5;&#x4E0B;&#x4E09;&#x884C;&#x4EE3;&#x7801;&#x5B9E;&#x73B0;&#x7684;&#x529F;&#x80FD;</h2>
-<ul>
-<li>&#x53D1;&#x9001;&#x8D85;&#x94FE;&#x63A5;</li>
-<li>&#x53D1;&#x9001;&#x56FE;&#x7247;&#x8D44;&#x6E90;(&#x652F;&#x6301;&#x53D1;&#x9001;&#x5404;&#x79CD;&#x9759;&#x6001;&#x8D44;&#x6E90;, &#x6587;&#x4EF6;&#x540D;&#x6700;&#x597D;&#x662F;&#x82F1;&#x6587;)</li>
-</ul>
-<h2 id="&#x6E90;&#x7801;">&#x6E90;&#x7801;</h2>
-<pre><code>import yagmail
-
-# &#x8FDE;&#x63A5;&#x90AE;&#x7BB1;&#x670D;&#x52A1;&#x5668;
-yag = yagmail.SMTP(user=&quot;lijianzhaoyou@163.com&quot;, password=&quot;&#x586B;&#x81EA;&#x5DF1;&#x7684;&quot;, host=&apos;smtp.163.com&apos;)
-
-# &#x90AE;&#x7BB1;&#x6B63;&#x6587;
-contents = [&apos;&#x4ECA;&#x5929;&#x662F;&#x5468;&#x672B;,&#x6211;&#x8981;&#x5B66;&#x4E60;, &#x5B66;&#x4E60;&#x4F7F;&#x6211;&#x5FEB;&#x4E50;;&apos;, &apos;&lt;a href=&quot;https://www.python.org/&quot;&gt;python&#x5B98;&#x7F51;&#x7684;&#x8D85;&#x94FE;&#x63A5;&lt;/a&gt;&apos;, &apos;./girl.jpg&apos;]
-
-# &#x53D1;&#x9001;&#x90AE;&#x4EF6;
-yag.send(&apos;zhaoolee@gmail.com&apos;, &apos;&#x4E3B;&#x9898;:&#x5B66;&#x4E60;&#x4F7F;&#x6211;&#x5FEB;&#x4E50;&apos;, contents)
-</code></pre><h2 id="&#x56FE;&#x7247;&#x8D44;&#x6E90;&#x5728;&#x6B64;">&#x56FE;&#x7247;&#x8D44;&#x6E90;&#x5728;&#x6B64;:</h2>
-<blockquote>
-<p><img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c1d9acad812207a8ee0820af5bc0af5a.png" alt="girl.jpg"></p>
-<p><img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/4fe05b492081cfa8057da4db8afde52e.png" alt="gmail&#x6536;&#x5230;&#x7684;&#x90AE;&#x4EF6;">
-<img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/8d0575189eecbbfeeaebe965dd0b6b4d.png" alt="qq&#x90AE;&#x7BB1;&#x6536;&#x5230;&#x7684;&#x90AE;&#x4EF6;"></p>
-<p>&#x5982;&#x4F55;&#x83B7;&#x53D6;163&#x90AE;&#x7BB1;&#x6388;&#x6743;&#x7801;?
-<img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/ab5afd3fca29c51bd6cfa7b7d5e94aa1.png" alt="&#x8BBE;&#x7F6E; =&gt; POP3/SMTP/IMAP">
-<img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/40f2e1c6659205645e34806b19f8c393.png" alt="&#x8BBE;&#x7F6E;&#x6388;&#x6743;&#x7801;">
-<img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/bad755850b0487f3bc75bd4586fa1678.png" alt="&#x5F39;&#x6846;&#x63D0;&#x793A;"></p>
+<p><img src="https://raw.githubusercontent.com/zhaoolee/GraphBed/master/images/c9c347b08c12c749a477e94e8f4f3e77.png" alt="">
+&#x6BCF;&#x5468;&#x4E00;&#x7BC7;&#x524D;&#x7AEF;&#x6280;&#x672F;&#x6587;, &#x817E;&#x8BAF;&#x51FA;&#x54C1;, &#x8D28;&#x91CF;&#x5F88;&#x4E0D;&#x9519;, &#x884C;&#x6587;&#x98CE;&#x683C;&#x4E25;&#x8C28;&#x4E0D;&#x5931;&#x98CE;&#x8DA3;~</p>
 </blockquote>
 <hr>
-<h4 id="&#x672C;&#x4ED3;&#x5E93;github&#x94FE;&#x63A5;-httpsgithubcomkootenpvyagmail">&#x672C;&#x4ED3;&#x5E93;Github&#x94FE;&#x63A5;: <a href="https://github.com/kootenpv/yagmail" target="_blank">https://github.com/kootenpv/yagmail</a></h4>
+<h4 id="&#x672C;&#x4ED3;&#x5E93;github&#x94FE;&#x63A5;-httpsgithubcomiv-webweekly">&#x672C;&#x4ED3;&#x5E93;Github&#x94FE;&#x63A5;: <a href="https://github.com/iv-web/weekly" target="_blank">https://github.com/iv-web/weekly</a></h4>
 <hr>
 <h2 id="&#x5199;&#x5728;&#x6700;&#x540E;&#x6211;&#x9700;&#x8981;&#x4F60;&#x7684;&#x652F;&#x6301;">&#x5199;&#x5728;&#x6700;&#x540E;(&#x6211;&#x9700;&#x8981;&#x4F60;&#x7684;&#x652F;&#x6301;)</h2>
 <ul>
@@ -589,12 +563,12 @@ yag.send(&apos;zhaoolee@gmail.com&apos;, &apos;&#x4E3B;&#x9898;:&#x5B66;&#x4E60;
 
             
                 
-                <a href="qian-duan-kai-53d15d-markdown-zhuan-html.html" class="navigation navigation-prev " aria-label="Previous page: [前端开发] Markdown转Html">
+                <a href="kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.html" class="navigation navigation-prev " aria-label="Previous page: [开源阅读] 深度学习500问">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.html" class="navigation navigation-next " aria-label="Next page: [Python派] 将Python程序(.py)转换为Windows可执行文件(.exe)">
+                <a href="kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.html" class="navigation navigation-next " aria-label="Next page: [开源阅读] 阮一峰技术分享周刊,每周五更新">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -605,7 +579,7 @@ yag.send(&apos;zhaoolee@gmail.com&apos;, &apos;&#x4E3B;&#x9898;:&#x5B66;&#x4E60;
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"[Python派] 3行代码发邮件(含发送图片)","level":"1.17","depth":1,"next":{"title":"[Python派] 将Python程序(.py)转换为Windows可执行文件(.exe)","level":"1.18","depth":1,"path":"pages/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.md","ref":"pages/python6d3e5d-jiang-python-cheng-5e8f28-py-zhuan-huan-wei-windows-ke-zhi-xing-wen-4ef628-exe.md","articles":[]},"previous":{"title":"[前端开发] Markdown转Html","level":"1.16","depth":1,"path":"pages/qian-duan-kai-53d15d-markdown-zhuan-html.md","ref":"pages/qian-duan-kai-53d15d-markdown-zhuan-html.md","articles":[]},"dir":"ltr"},"config":{"plugins":["disqus","github","3-ba","ga","github-buttons","-sharing","sharing-plus","-lunr","-search","search-plus","splitter","tbfed-pagefooter","donate","sitemap-general"],"styles":{"website":"zh-hans/styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright zhaoolee@gmail.com","modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"disqus":{"useIdentifier":false,"shortName":"zhaoolee"},"github":{"url":"https://github.com/zhaoolee/StarsAndClown"},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"donate":{"title":"","button":"咦?","wechat":"https://user-images.githubusercontent.com/15868458/62830339-e1470400-bc3f-11e9-9851-3cf72d04d7b5.png","alipay":"","wechatText":"微信赞赏","alipayText":"支付宝打赏"},"sitemap-general":{"prefix":"https://zhaoolee.com/StarsAndClown/"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"github-buttons":{"buttons":[{"user":"zhaoolee","repo":"StarsAndClown","type":"star","size":"large","count":true},{"user":"zhaoolee","type":"follow","width":"230","count":true}]},"3-ba":{"configuration":"auto","token":"58db316ae8a39f946e264dae4c0b0dd4"},"ga":{"configuration":"auto","token":"UA-129665260-2"},"sharing":{"qq":false,"all":["weibo","qq","qzone","google","douban"],"douban":false,"facebook":false,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"zhaoolee","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"StarsAndClown","language":"zh-hans","gitbook":"*","description":"☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~"},"file":{"path":"pages/pythonshen-5e935d-3-xing-dai-ma-fa-you-4ef628-han-fa-song-tu-724729.md","mtime":"2019-06-06T05:04:58.305Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-08-25T10:51:42.522Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"[开源阅读] 腾讯IVWEB技术周刊","level":"1.21","depth":1,"next":{"title":"[开源阅读] 阮一峰技术分享周刊,每周五更新","level":"1.22","depth":1,"path":"page/kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.md","ref":"page/kai-yuan-yue-8bfb5d-ruan-yi-feng-ji-zhu-fen-xiang-zhou-520a2c-mei-zhou-wu-geng-xin.md","articles":[]},"previous":{"title":"[开源阅读] 深度学习500问","level":"1.20","depth":1,"path":"page/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.md","ref":"page/kai-yuan-yue-8bfb5d-shen-du-xue-xi-500-wen.md","articles":[]},"dir":"ltr"},"config":{"plugins":["disqus","github","3-ba","ga","github-buttons","-sharing","sharing-plus","-lunr","-search","search-plus","splitter","tbfed-pagefooter","donate","sitemap-general"],"styles":{"website":"zh-hans/styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright zhaoolee@gmail.com","modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"disqus":{"useIdentifier":false,"shortName":"zhaoolee"},"github":{"url":"https://github.com/zhaoolee/StarsAndClown"},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"donate":{"title":"","button":"咦?","wechat":"https://user-images.githubusercontent.com/15868458/62830339-e1470400-bc3f-11e9-9851-3cf72d04d7b5.png","alipay":"","wechatText":"微信赞赏","alipayText":"支付宝打赏"},"sitemap-general":{"prefix":"https://zhaoolee.com/StarsAndClown/"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"github-buttons":{"buttons":[{"user":"zhaoolee","repo":"StarsAndClown","type":"star","size":"large","count":true},{"user":"zhaoolee","type":"follow","width":"230","count":true}]},"3-ba":{"configuration":"auto","token":"58db316ae8a39f946e264dae4c0b0dd4"},"ga":{"configuration":"auto","token":"UA-129665260-2"},"sharing":{"qq":false,"all":["weibo","qq","qzone","google","douban"],"douban":false,"facebook":false,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"zhaoolee","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"StarsAndClown","language":"zh-hans","gitbook":"*","description":"☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~"},"file":{"path":"page/kai-yuan-yue-8bfb5d-teng-xun-ivweb-ji-zhu-zhou-kan.md","mtime":"2019-06-06T05:04:58.305Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-08-25T11:03:25.548Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

@@ -1,7 +1,7 @@
 {
-  "name": "ChromeAppHeroes",
+  "name": "StarsAndClown",
   "version": "1.0.0",
-  "description": "[English](https://zhaoolee.com/ChromeAppHeroes/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)",
+  "description": "星聚弃疗榜 StarsAndClown zhaoolee",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -23,19 +23,20 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gitbook build ./ ./docs",
+    "build": "gitbook install && gitbook build ./ ./docs",
     "pdf": "gitbook pdf ./ ./pdf",
+    "bpush": "gitbook install && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push",
     "push": "gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhaoolee/ChromeAppHeroes.git"
+    "url": "git+https://github.com/zhaoolee/StarsAndClown.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhaoolee/ChromeAppHeroes/issues"
+    "url": "https://github.com/zhaoolee/StarsAndClown/issues"
   },
-  "homepage": "https://github.com/zhaoolee/ChromeAppHeroes#readme"
+  "homepage": "https://github.com/zhaoolee/StarsAndClown#readme"
 }
